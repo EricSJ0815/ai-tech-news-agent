@@ -1,0 +1,32 @@
+[
+  {
+    "title": "OpenAI Releases GPT-5 with Multimodal Reasoning Capabilities",
+    "link": "https://techcrunch.com/openai-gpt5-release",
+    "summary": "OpenAI announced GPT-5, featuring enhanced multimodal reasoning that can process and analyze images, audio, and text simultaneously. The model shows 40% improvement in complex problem-solving tasks compared to GPT-4. Early testing reveals breakthrough performance in scientific research and code generation.",
+    "source": "TechCrunch"
+  },
+  {
+    "title": "Tesla Achieves Full Self-Driving Milestone in California",
+    "link": "https://reuters.com/tesla-fsd-california",
+    "summary": "Tesla's Full Self-Driving system has been approved for unsupervised operation in California after completing 10 million miles of accident-free testing. This marks the first approval for a consumer vehicle to operate without human supervision in urban environments. Regulators cited advanced neural network architecture as key to the approval.",
+    "source": "Reuters"
+  },
+  {
+    "title": "Google DeepMind Cracks 50-Year-Old Protein Folding Problem",
+    "link": "https://nature.com/deepmind-protein-folding",
+    "summary": "DeepMind's AlphaFold 3 achieved 98% accuracy in predicting protein structures, solving a challenge that has stumped scientists since the 1970s. The breakthrough could accelerate drug discovery by years and has immediate applications in cancer research. Over 500 pharmaceutical companies have requested access to the technology.",
+    "source": "Nature"
+  },
+  {
+    "title": "Apple Announces Transition to In-House 2nm Chips for All Devices",
+    "link": "https://theverge.com/apple-2nm-chips",
+    "summary": "Apple unveiled its custom-designed 2-nanometer processors, claiming 60% better performance per watt than current 3nm chips. The new A18 and M4 chips will power iPhones, iPads, and Macs starting Q3 2026. Industry analysts estimate this move will save Apple $12 billion annually in manufacturing costs.",
+    "source": "The Verge"
+  },
+  {
+    "title": "SpaceX Starship Successfully Completes First Mars Cargo Mission",
+    "link": "https://space.com/spacex-starship-mars-cargo",
+    "summary": "SpaceX's Starship delivered 100 tons of supplies to Mars orbit in preparation for future crewed missions. The autonomous spacecraft completed the 7-month journey and successfully deployed satellites for Mars communication infrastructure. NASA confirmed the mission paves the way for human landings by 2028.",
+    "source": "Space.com"
+  }
+]
