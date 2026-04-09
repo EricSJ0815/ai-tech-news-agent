@@ -52,6 +52,9 @@ OpenAI推出了具备多模态推理能力的GPT-5，在复杂问题解决任务
 AI Insight：
 AI 正在从单一模型能力走向多模态统一智能，这将加速 AI 在教育、创意和自动化领域的落地，同时进一步拉开头部模型之间的技术差距。
 ```
+🖥️ Web UI Preview
+
+![UI Demo](assets/ui-demo.png)
 
 ## Project Structure
 ```
