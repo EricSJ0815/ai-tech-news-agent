@@ -3,6 +3,9 @@ import os
 from datetime import datetime
 from src.summarize_agent import SummarizeAgent
 from src.insight_agent import InsightAgent
+from filter_articles import filter_articles
+from dedupe_articles import dedupe_articles
+from score_articles import ScoreAgent
 
 
 def generate_markdown_report(summarized):
@@ -13,6 +16,15 @@ def generate_markdown_report(summarized):
 
     for i, item in enumerate(summarized[:3], 1):
         content += f"## {i}. {item['chinese_title']}\n\n"
+
+        # 新增：可解释筛选信息
+        if "importance_score" in item:
+            content += f"**重要性评分：** {item['importance_score']}/10\n\n"
+        if "category" in item:
+            content += f"**类别：** {item['category']}\n\n"
+        if "score_reason" in item:
+            content += f"**入选原因：** {item['score_reason']}\n\n"
+
         content += f"**摘要：** {item['chinese_summary']}\n\n"
 
         content += f"**要点：**\n"
@@ -33,9 +45,35 @@ def main():
 
     # 读取测试数据
     print("Step 1: 加载测试数据...")
-    with open("data/sample_articles.json", "r", encoding="utf-8") as f:
+    
+    with open("data/rss_articles.json", "r", encoding="utf-8") as f:
         articles = json.load(f)
+
     print(f"已加载 {len(articles)} 条新闻\n")
+
+    articles = filter_articles(articles)
+    print(f"筛选后保留 {len(articles)} 条新闻\n")
+
+    articles = dedupe_articles(articles)
+    print(f"去重后剩余 {len(articles)} 条新闻\n")
+
+    print("Step 1.5: 使用 MiniMax 对新闻进行重要性打分...\n")
+    score_agent = ScoreAgent()
+
+    for article in articles:
+        score_result = score_agent.score_article(article)
+        article["importance_score"] = score_result["importance_score"]
+        article["category"] = score_result["category"]
+        article["score_reason"] = score_result["reason"]
+    
+    articles = sorted(articles, key=lambda x: x.get("importance_score", 0), reverse=True)
+    print("===== 模型打分排序结果（从高到低） =====")
+    for i, article in enumerate(articles, 1):
+        print(f"{i}. [{article.get('importance_score', 0)}分] {article['title']}")
+    print()
+
+    articles = articles[:3]
+    print(f"排序后选出 {len(articles)} 条重点新闻\n")
 
     # 生成中文摘要（MiniMax）
     print("Step 2: 生成中文摘要（MiniMax）...\n")

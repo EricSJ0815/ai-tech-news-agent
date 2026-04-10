@@ -46,6 +46,9 @@ class SummarizeAgent:
             "key_points": llm_result.get("key_points", []),
             "source": article.get("source", ""),
             "link": article.get("link", ""),
+            "importance_score": article.get("importance_score"),
+            "category": article.get("category"),
+            "score_reason": article.get("score_reason"),
         }
 
     def _call_llm(self, title, summary):

@@ -1,4 +1,5 @@
 import requests
+import time
 
 
 class InsightAgent:
@@ -14,41 +15,51 @@ class InsightAgent:
             print("警告: 未设置 ANTHROPIC_API_KEY，请设置环境变量")
 
     def generate_insight(self, chinese_title, chinese_summary):
-        """为单条新闻生成 AI Insight"""
+        """为单条新闻生成 AI Insight（带重试机制）"""
         prompt = self._build_prompt(chinese_title, chinese_summary)
 
-        try:
-            response = requests.post(
-                self.api_url,
-                headers={
-                    "Content-Type": "application/json",
-                    "x-api-key": self.api_key,
-                    "anthropic-version": "2023-06-01",
-                },
-                json={
-                    "model": self.model,
-                    "max_tokens": 300,
-                    "messages": [
-                        {
-                            "role": "user",
-                            "content": prompt,
-                        }
-                    ],
-                },
-                timeout=30,
-            )
+        max_retries = 3
 
-            if response.status_code == 200:
-                result = response.json()
-                return result.get("content", [{}])[0].get("text", "").strip()
-            else:
-                print(f"Claude API 调用失败: {response.status_code}")
-                print(response.text)
-                return "Insight 生成失败，请稍后重试。"
+        for attempt in range(max_retries):
+            try:
+                response = requests.post(
+                    self.api_url,
+                    headers={
+                        "Content-Type": "application/json",
+                        "x-api-key": self.api_key,
+                        "anthropic-version": "2023-06-01",
+                    },
+                    json={
+                        "model": self.model,
+                        "max_tokens": 300,
+                        "messages": [
+                            {
+                                "role": "user",
+                                "content": prompt,
+                            }
+                        ],
+                    },
+                    timeout=30,
+                )
 
-        except Exception as e:
-            print(f"Claude 调用出错: {str(e)}")
-            return "Insight 生成失败，请稍后重试。"
+                if response.status_code == 200:
+                    result = response.json()
+                    return result.get("content", [{}])[0].get("text", "").strip()
+
+                else:
+                    print(f"Claude API 调用失败: {response.status_code}")
+                    print(response.text)
+
+            except Exception as e:
+                print(f"Claude 调用出错: {str(e)}")
+
+            # 👇 重试逻辑（关键）
+            wait_time = 2 * (attempt + 1)
+            print(f"重试中...第 {attempt+1} 次失败，等待 {wait_time} 秒")
+            time.sleep(wait_time)
+
+        # 👇 多次失败后的兜底
+        return "Insight 生成失败（多次重试仍失败）"
 
     def _build_prompt(self, chinese_title, chinese_summary):
         return f"""你是一位 AI 行业分析师，请基于以下科技新闻生成一段简体中文 AI Insight。
