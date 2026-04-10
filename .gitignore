@@ -1,4 +1,19 @@
+# environment
 .env
 .venv/
+
+# python
 __pycache__/
 *.pyc
+
+# macOS
+.DS_Store
+
+# generated data
+data/rss_articles.json
+
+# generated outputs
+output/
+
+# optional: editor/system noise
+.vscode/
