@@ -2,8 +2,8 @@ import streamlit as st
 import json
 from pathlib import Path
 
-from src.summarize_agent import SummarizeAgent
-from src.insight_agent import InsightAgent
+from src.agents.summarize_agent import SummarizeAgent
+from src.agents.insight_agent import InsightAgent
 
 st.set_page_config(
     page_title="AI Tech News Agent",

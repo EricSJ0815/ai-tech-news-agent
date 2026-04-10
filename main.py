@@ -1,8 +1,8 @@
 import json
 import os
 from datetime import datetime
-from src.summarize_agent import SummarizeAgent
-from src.insight_agent import InsightAgent
+from src.agents.summarize_agent import SummarizeAgent
+from src.agents.insight_agent import InsightAgent
 from filter_articles import filter_articles
 from dedupe_articles import dedupe_articles
 from score_articles import ScoreAgent
