@@ -49,14 +49,17 @@ temp/
 # 🔹 项目运行数据（重点）
 # =========================
 
-# RSS抓取数据
+# RSS抓取数据（运行生成）
 data/rss_articles.json
 
 # 缓存
 data/cache.json
 
-# 未来如果你加更多缓存
-data/*.cache
+# 原始抓取数据（你刚刚误加入的）
+data/raw/
+
+# 备份文件
+*.bak
 
 # =========================
 # 🔹 日报输出（不进Git）
@@ -65,9 +68,6 @@ data/*.cache
 # 每日生成内容
 output/daily_report.md
 output/last_report.json
-
-# 备份文件
-*.json.bak
 
 # =========================
 # 🔹 Jupyter / Notebook（如果你用）
