@@ -1,0 +1,1548 @@
+10:36:35  INFO     ==================================================
+10:36:35  INFO     [ingestion] start — 2026-04-13 10:36:35
+10:36:35  INFO     [fetch] TechCrunch ...
+10:36:35  INFO     [fetch] TechCrunch: OK — 15 entries
+10:36:35  INFO     [fetch] The Verge ...
+10:36:35  INFO     [fetch] The Verge: OK — 10 entries
+10:36:35  INFO     [fetch] VentureBeat AI ...
+10:36:36  INFO     [fetch] VentureBeat AI: OK — 7 entries
+10:36:36  INFO     [fetch] Ars Technica ...
+10:36:36  INFO     [fetch] Ars Technica: OK — 15 entries
+10:36:36  INFO     [fetch] MIT Tech Review ...
+10:36:36  INFO     [fetch] MIT Tech Review: OK — 10 entries
+10:36:36  INFO     [fetch] Wired ...
+10:36:36  INFO     [fetch] Wired: OK — 10 entries
+10:36:36  INFO     [fetch] AI News ...
+10:36:39  INFO     [fetch] AI News: OK — 10 entries
+10:36:39  INFO     [fetch] ZDNet AI ...
+10:36:39  INFO     [fetch] ZDNet AI: OK — 10 entries
+10:36:39  INFO     [raw] saved 85 articles → data/raw/2026-04-13_articles.json
+10:36:39  INFO     --------------------------------------------------
+10:36:39  INFO     [ingestion] SOURCE HEALTH:
+10:36:39  INFO       ✓  TechCrunch            15 articles  [OK]
+10:36:39  INFO       ✓  The Verge             10 articles  [OK]
+10:36:39  INFO       ✓  VentureBeat AI         7 articles  [OK]
+10:36:39  INFO       ✓  Ars Technica          15 articles  [OK]
+10:36:39  INFO       ✓  MIT Tech Review       10 articles  [OK]
+10:36:39  INFO       ✓  Wired                 10 articles  [OK]
+10:36:39  INFO       ✓  AI News               10 articles  [OK]
+10:36:39  INFO       ✓  ZDNet AI              10 articles  [OK]
+10:36:39  INFO     --------------------------------------------------
+10:36:39  INFO     [ingestion] sources  : 8 ok / 0 failed
+10:36:39  INFO     [ingestion] raw total: 87
+10:36:39  INFO     [ingestion] deduped  : 85
+10:36:39  INFO     [ingestion] elapsed  : 3.7s
+10:36:39  INFO     ==================================================
+10:43:48  INFO     [pipeline] RUN SUMMARY:
+10:43:48  INFO       date         : 2026-04-13
+10:43:48  INFO       deep_dive    : 5
+10:43:48  INFO       brief        : 8
+10:43:48  INFO       total_articles: 13
+10:43:48  INFO       market_pulse : 今天资本的信号比较清晰：AI 赛道的押注节奏仍在提速，而且方向在向应用层集中。这一轮融资浪潮的结构变化在于：钱不再只进模...
+13:52:30  INFO     ==================================================
+13:52:30  INFO     [ingestion] start — 2026-04-13 13:52:30
+13:52:30  INFO     [fetch] TechCrunch ...
+13:52:31  INFO     [fetch] TechCrunch: OK — 15 entries
+13:52:31  INFO     [fetch] The Verge ...
+13:52:31  INFO     [fetch] The Verge: OK — 10 entries
+13:52:31  INFO     [fetch] VentureBeat AI ...
+13:52:31  INFO     [fetch] VentureBeat AI: OK — 7 entries
+13:52:31  INFO     [fetch] Ars Technica ...
+13:52:31  INFO     [fetch] Ars Technica: OK — 15 entries
+13:52:31  INFO     [fetch] MIT Tech Review ...
+13:52:31  INFO     [fetch] MIT Tech Review: OK — 10 entries
+13:52:31  INFO     [fetch] Wired ...
+13:52:31  INFO     [fetch] Wired: OK — 10 entries
+13:52:31  INFO     [fetch] AI News ...
+13:52:33  INFO     [fetch] AI News: OK — 10 entries
+13:52:33  INFO     [fetch] ZDNet AI ...
+13:52:33  INFO     [fetch] ZDNet AI: OK — 10 entries
+13:52:33  INFO     [raw] saved 85 articles → data/raw/2026-04-13_articles.json
+13:52:33  INFO     --------------------------------------------------
+13:52:33  INFO     [ingestion] SOURCE HEALTH:
+13:52:33  INFO       ✓  TechCrunch            15 articles  [OK]
+13:52:33  INFO       ✓  The Verge             10 articles  [OK]
+13:52:33  INFO       ✓  VentureBeat AI         7 articles  [OK]
+13:52:33  INFO       ✓  Ars Technica          15 articles  [OK]
+13:52:33  INFO       ✓  MIT Tech Review       10 articles  [OK]
+13:52:33  INFO       ✓  Wired                 10 articles  [OK]
+13:52:33  INFO       ✓  AI News               10 articles  [OK]
+13:52:33  INFO       ✓  ZDNet AI              10 articles  [OK]
+13:52:33  INFO     --------------------------------------------------
+13:52:33  INFO     [ingestion] sources  : 8 ok / 0 failed
+13:52:33  INFO     [ingestion] raw total: 87
+13:52:33  INFO     [ingestion] deduped  : 85
+13:52:33  INFO     [ingestion] elapsed  : 2.7s
+13:52:33  INFO     ==================================================
+13:58:52  INFO     [pipeline] RUN SUMMARY:
+13:58:52  INFO       date         : 2026-04-13
+13:58:52  INFO       deep_dive    : 5
+13:58:52  INFO       brief        : 10
+13:58:52  INFO       total_articles: 15
+13:58:52  INFO       market_pulse : 今天资本的信号比较清晰：AI 赛道的押注节奏仍在提速，而且方向在向应用层集中。这一轮融资浪潮的结构变化在于：钱不再只进模...
+13:59:32  INFO     ==================================================
+13:59:32  INFO     [ingestion] start — 2026-04-13 13:59:32
+13:59:32  INFO     [fetch] TechCrunch ...
+13:59:32  INFO     [fetch] TechCrunch: OK — 15 entries
+13:59:32  INFO     [fetch] The Verge ...
+13:59:32  INFO     [fetch] The Verge: OK — 10 entries
+13:59:32  INFO     [fetch] VentureBeat AI ...
+13:59:33  INFO     [fetch] VentureBeat AI: OK — 7 entries
+13:59:33  INFO     [fetch] Ars Technica ...
+13:59:33  INFO     [fetch] Ars Technica: OK — 15 entries
+13:59:33  INFO     [fetch] MIT Tech Review ...
+13:59:33  INFO     [fetch] MIT Tech Review: OK — 10 entries
+13:59:33  INFO     [fetch] Wired ...
+13:59:33  INFO     [fetch] Wired: OK — 10 entries
+13:59:33  INFO     [fetch] AI News ...
+13:59:35  INFO     [fetch] AI News: OK — 10 entries
+13:59:35  INFO     [fetch] ZDNet AI ...
+13:59:35  INFO     [fetch] ZDNet AI: OK — 10 entries
+13:59:35  INFO     [raw] saved 85 articles → data/raw/2026-04-13_articles.json
+13:59:35  INFO     --------------------------------------------------
+13:59:35  INFO     [ingestion] SOURCE HEALTH:
+13:59:35  INFO       ✓  TechCrunch            15 articles  [OK]
+13:59:35  INFO       ✓  The Verge             10 articles  [OK]
+13:59:35  INFO       ✓  VentureBeat AI         7 articles  [OK]
+13:59:35  INFO       ✓  Ars Technica          15 articles  [OK]
+13:59:35  INFO       ✓  MIT Tech Review       10 articles  [OK]
+13:59:35  INFO       ✓  Wired                 10 articles  [OK]
+13:59:35  INFO       ✓  AI News               10 articles  [OK]
+13:59:35  INFO       ✓  ZDNet AI              10 articles  [OK]
+13:59:35  INFO     --------------------------------------------------
+13:59:35  INFO     [ingestion] sources  : 8 ok / 0 failed
+13:59:35  INFO     [ingestion] raw total: 87
+13:59:35  INFO     [ingestion] deduped  : 85
+13:59:35  INFO     [ingestion] elapsed  : 2.5s
+13:59:35  INFO     ==================================================
+14:06:54  INFO     [pipeline] RUN SUMMARY:
+14:06:54  INFO       date         : 2026-04-13
+14:06:54  INFO       deep_dive    : 5
+14:06:54  INFO       brief        : 12
+14:06:54  INFO       total_articles: 17
+14:06:54  INFO       market_pulse : 今天资本的信号比较清晰：AI 赛道的押注节奏仍在提速，而且方向在向应用层集中。这一轮融资浪潮的结构变化在于：钱不再只进模...
+14:08:01  INFO     ==================================================
+14:08:01  INFO     [ingestion] start — 2026-04-13 14:08:01
+14:08:01  INFO     [fetch] TechCrunch ...
+14:08:01  INFO     [fetch] TechCrunch: OK — 15 entries
+14:08:01  INFO     [fetch] The Verge ...
+14:08:01  INFO     [fetch] The Verge: OK — 10 entries
+14:08:01  INFO     [fetch] VentureBeat AI ...
+14:08:01  INFO     [fetch] VentureBeat AI: OK — 7 entries
+14:08:01  INFO     [fetch] Ars Technica ...
+14:08:01  INFO     [fetch] Ars Technica: OK — 15 entries
+14:08:01  INFO     [fetch] MIT Tech Review ...
+14:08:01  INFO     [fetch] MIT Tech Review: OK — 10 entries
+14:08:01  INFO     [fetch] Wired ...
+14:08:01  INFO     [fetch] Wired: OK — 10 entries
+14:08:01  INFO     [fetch] AI News ...
+14:08:03  INFO     [fetch] AI News: OK — 10 entries
+14:08:03  INFO     [fetch] ZDNet AI ...
+14:08:03  INFO     [fetch] ZDNet AI: OK — 10 entries
+14:08:03  INFO     [raw] saved 85 articles → data/raw/2026-04-13_articles.json
+14:08:03  INFO     --------------------------------------------------
+14:08:03  INFO     [ingestion] SOURCE HEALTH:
+14:08:03  INFO       ✓  TechCrunch            15 articles  [OK]
+14:08:03  INFO       ✓  The Verge             10 articles  [OK]
+14:08:03  INFO       ✓  VentureBeat AI         7 articles  [OK]
+14:08:03  INFO       ✓  Ars Technica          15 articles  [OK]
+14:08:03  INFO       ✓  MIT Tech Review       10 articles  [OK]
+14:08:03  INFO       ✓  Wired                 10 articles  [OK]
+14:08:03  INFO       ✓  AI News               10 articles  [OK]
+14:08:03  INFO       ✓  ZDNet AI              10 articles  [OK]
+14:08:03  INFO     --------------------------------------------------
+14:08:03  INFO     [ingestion] sources  : 8 ok / 0 failed
+14:08:03  INFO     [ingestion] raw total: 87
+14:08:03  INFO     [ingestion] deduped  : 85
+14:08:03  INFO     [ingestion] elapsed  : 2.6s
+14:08:03  INFO     ==================================================
+14:14:26  INFO     [pipeline] RUN SUMMARY:
+14:14:26  INFO       date         : 2026-04-13
+14:14:26  INFO       deep_dive    : 5
+14:14:26  INFO       brief        : 8
+14:14:26  INFO       total_articles: 13
+14:14:26  INFO       market_pulse : 今天资本的信号比较清晰：AI 赛道的押注节奏仍在提速，而且方向在向应用层集中。这一轮融资浪潮的结构变化在于：钱不再只进模...
+14:32:35  INFO     [insight] Claude 成功 (attempt 1) | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施
+14:32:35  WARNING  [insight] Claude HTTP 529 (attempt 1) | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施 | body={"error":{"type":"overloaded_error","message":"API overloaded"}}
+14:32:35  DEBUG    [insight] 等待 2s 后重试 Claude...
+14:32:35  WARNING  [insight] Claude HTTP 529 (attempt 2) | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施 | body={"error":{"type":"overloaded_error","message":"API overloaded"}}
+14:32:35  DEBUG    [insight] 等待 4s 后重试 Claude...
+14:32:35  WARNING  [insight] Claude HTTP 529 (attempt 3) | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施 | body={"error":{"type":"overloaded_error","message":"API overloaded"}}
+14:32:35  WARNING  [insight] Claude 全部重试失败，切换 OpenAI fallback | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施
+14:32:35  INFO     [insight] OpenAI fallback 成功 | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施
+14:32:35  WARNING  [insight] Claude HTTP 529 (attempt 1) | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施 | body={"error":{"type":"overloaded_error","message":"API overloaded"}}
+14:32:35  DEBUG    [insight] 等待 2s 后重试 Claude...
+14:32:35  WARNING  [insight] Claude HTTP 529 (attempt 2) | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施 | body={"error":{"type":"overloaded_error","message":"API overloaded"}}
+14:32:35  DEBUG    [insight] 等待 4s 后重试 Claude...
+14:32:35  WARNING  [insight] Claude HTTP 529 (attempt 3) | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施 | body={"error":{"type":"overloaded_error","message":"API overloaded"}}
+14:32:35  WARNING  [insight] Claude 全部重试失败，切换 OpenAI fallback | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施
+14:32:35  ERROR    [insight] OpenAI HTTP 500 | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施 | body={"error":"Internal Server Error"}
+14:32:35  ERROR    [insight] Claude 和 OpenAI 均失败，使用降级文案 | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施
+14:32:35  WARNING  [insight] Claude 异常 (attempt 1): network down | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施
+14:32:35  DEBUG    [insight] 等待 2s 后重试 Claude...
+14:32:35  WARNING  [insight] Claude 异常 (attempt 2): network down | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施
+14:32:35  DEBUG    [insight] 等待 4s 后重试 Claude...
+14:32:35  WARNING  [insight] Claude 异常 (attempt 3): network down | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施
+14:32:35  WARNING  [insight] Claude 全部重试失败，切换 OpenAI fallback | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施
+14:32:35  ERROR    [insight] OpenAI 异常: network down | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施
+14:32:35  ERROR    [insight] Claude 和 OpenAI 均失败，使用降级文案 | title=OpenAI 正把 AI 工具从效率插件重塑为可分层定价的基础设施
+14:38:21  INFO     [cache] miss | ns=summary key=https://techcrunch.com/openai-gpt5-release|deep_dive
+14:38:30  INFO     [cache] miss | ns=insight key=https://techcrunch.com/openai-gpt5-release|high
+14:38:35  INFO     [insight] Claude 成功 (attempt 1) | title=OpenAI 发布 GPT-5，引入多模态推理能力
+14:38:35  INFO     [pipeline] RUN SUMMARY:
+14:38:35  INFO       date         : 2026-04-13
+14:38:35  INFO       deep_dive    : 1
+14:38:35  INFO       brief        : 0
+14:38:35  INFO       total_articles: 1
+14:38:35  INFO       market_pulse : 今天头部 AI 公司的动作在同步密集，这轮博弈已不只是产品比拼，而是市场入口和分发渠道的提前占位。头部公司正在拉开与中游...
+14:38:47  INFO     [cache] miss | ns=summary key=https://techcrunch.com/openai-gpt5-release|deep_dive
+14:38:55  INFO     [cache] hit  | ns=insight key=https://techcrunch.com/openai-gpt5-release|high
+14:38:55  INFO     [pipeline] RUN SUMMARY:
+14:38:55  INFO       date         : 2026-04-13
+14:38:55  INFO       deep_dive    : 1
+14:38:55  INFO       brief        : 0
+14:38:55  INFO       total_articles: 1
+14:38:55  INFO       market_pulse : 今天头部 AI 公司的动作在同步密集，这轮博弈已不只是产品比拼，而是市场入口和分发渠道的提前占位。头部公司正在拉开与中游...
+14:39:40  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/openai-gpt5-release|deep_dive
+14:44:08  INFO     [cache] miss | ns=summary key=https://techcrunch.com/openai-gpt5-release|deep_dive
+14:44:18  INFO     [cache] miss | ns=insight key=https://techcrunch.com/openai-gpt5-release|high
+14:44:23  INFO     [insight] Claude 成功 (attempt 1) | title=OpenAI 发布具备多模态推理能力的 GPT-5
+14:44:23  INFO     [pipeline] RUN SUMMARY:
+14:44:23  INFO       date         : 2026-04-13
+14:44:23  INFO       deep_dive    : 1
+14:44:23  INFO       brief        : 0
+14:44:23  INFO       total_articles: 1
+14:44:23  INFO       market_pulse : 今天头部 AI 公司的动作在同步密集，这轮博弈已不只是产品比拼，而是市场入口和分发渠道的提前占位。头部公司正在拉开与中游...
+14:44:37  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/openai-gpt5-release|deep_dive
+14:44:37  INFO     [cache] hit  | ns=insight key=https://techcrunch.com/openai-gpt5-release|high
+14:44:37  INFO     [pipeline] RUN SUMMARY:
+14:44:37  INFO       date         : 2026-04-13
+14:44:37  INFO       deep_dive    : 1
+14:44:37  INFO       brief        : 0
+14:44:37  INFO       total_articles: 1
+14:44:37  INFO       market_pulse : 今天头部 AI 公司的动作在同步密集，这轮博弈已不只是产品比拼，而是市场入口和分发渠道的提前占位。头部公司正在拉开与中游...
+14:48:47  INFO     [cache] miss | ns=summary key=https://venturebeat.com/infrastructure/claude-code-costs-up-
+14:48:58  INFO     [cache] miss | ns=summary key=https://venturebeat.com/technology/the-creator-of-claude-cod
+14:49:09  INFO     [cache] miss | ns=summary key=https://www.artificialintelligence-news.com/news/meta-muse-s
+14:49:19  INFO     [cache] miss | ns=summary key=https://www.artificialintelligence-news.com/news/anthropic-k
+14:49:28  INFO     [cache] miss | ns=summary key=https://www.artificialintelligence-news.com/news/microsoft-o
+14:49:37  INFO     [cache] miss | ns=summary key=https://www.theverge.com/transportation/909480/solid-state-b
+14:49:42  INFO     [cache] miss | ns=summary key=https://www.wired.com/story/how-the-internet-broke-everyones
+14:49:46  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai
+14:49:53  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/10/snap-gets-closer-to-releas
+14:49:58  INFO     [cache] miss | ns=summary key=https://www.zdnet.com/article/best-ar-and-mr-glasses/|brief
+14:50:04  INFO     [cache] miss | ns=summary key=https://www.technologyreview.com/2026/04/07/1135235/desalina
+14:50:10  INFO     [cache] miss | ns=summary key=https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at
+14:50:17  INFO     [cache] miss | ns=summary key=https://arstechnica.com/gadgets/2026/04/youtube-increases-pr
+14:50:23  INFO     [cache] miss | ns=summary key=https://arstechnica.com/culture/2026/04/pro-iran-explosive-m
+14:50:28  INFO     [cache] miss | ns=summary key=https://www.technologyreview.com/2026/04/10/1135618/the-down
+14:50:33  INFO     [cache] miss | ns=summary key=https://www.zdnet.com/article/suunto-spark-review/|brief
+14:50:39  INFO     [cache] miss | ns=insight key=https://venturebeat.com/infrastructure/claude-code-costs-up-
+14:50:44  INFO     [insight] Claude 成功 (attempt 1) | title=开源 AI 编程工具 Goose 崛起，对抗 Anthropic 高价订阅模式
+14:50:44  INFO     [cache] miss | ns=insight key=https://venturebeat.com/technology/the-creator-of-claude-cod
+14:50:49  INFO     [insight] Claude 成功 (attempt 1) | title=Claude Code 创始人披露 AI 驱动的开发流程，引发开发者热议
+14:50:49  INFO     [cache] miss | ns=insight key=https://www.artificialintelligence-news.com/news/meta-muse-s
+14:50:55  INFO     [insight] Claude 成功 (attempt 1) | title=Meta 推出竞争性 AI 模型，但失去开源社区身份
+14:50:55  INFO     [cache] miss | ns=insight key=https://www.artificialintelligence-news.com/news/anthropic-k
+14:51:01  INFO     [insight] Claude 成功 (attempt 1) | title=Anthropic 内部测试 AI 安全模型后选择不公开发布，转而与互联网基础设
+14:51:01  INFO     [cache] miss | ns=insight key=https://www.artificialintelligence-news.com/news/microsoft-o
+14:51:05  INFO     [insight] Claude 成功 (attempt 1) | title=微软开源 AI 运行时安全工具包，强化企业 AI 代理治理
+14:51:05  INFO     [pipeline] RUN SUMMARY:
+14:51:05  INFO       date         : 2026-04-13
+14:51:05  INFO       deep_dive    : 5
+14:51:05  INFO       brief        : 11
+14:51:05  INFO       total_articles: 16
+14:51:05  INFO       market_pulse : 今天没有单一主线，但多个信号同时指向同一个方向：AI 商业化正在进入以客户留存为核心的新阶段，而不是以功能堆叠为主的早期...
+14:55:48  INFO     [cache] hit  | ns=summary key=https://venturebeat.com/technology/the-creator-of-claude-cod
+14:55:48  INFO     [cache] hit  | ns=summary key=https://venturebeat.com/infrastructure/claude-code-costs-up-
+14:55:48  INFO     [cache] miss | ns=summary key=https://www.technologyreview.com/2026/04/07/1134966/enabling
+14:55:57  INFO     [cache] hit  | ns=summary key=https://www.artificialintelligence-news.com/news/anthropic-k
+14:55:57  INFO     [cache] hit  | ns=summary key=https://www.artificialintelligence-news.com/news/microsoft-o
+14:55:57  INFO     [cache] hit  | ns=summary key=https://www.wired.com/story/how-the-internet-broke-everyones
+14:55:57  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/transportation/909480/solid-state-b
+14:55:57  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/10/snap-gets-closer-to-releas
+14:55:57  INFO     [cache] hit  | ns=summary key=https://www.zdnet.com/article/best-ar-and-mr-glasses/|brief
+14:55:57  INFO     [cache] miss | ns=summary key=https://www.technologyreview.com/2026/04/08/1135405/the-down
+14:56:01  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at
+14:56:01  INFO     [cache] miss | ns=summary key=https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-e
+14:56:06  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/gadgets/2026/04/youtube-increases-pr
+14:56:06  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/10/battery-recycler-ascend-el
+14:56:11  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai
+14:56:11  INFO     [cache] hit  | ns=insight key=https://venturebeat.com/technology/the-creator-of-claude-cod
+14:56:11  INFO     [cache] hit  | ns=insight key=https://venturebeat.com/infrastructure/claude-code-costs-up-
+14:56:11  INFO     [cache] miss | ns=insight key=https://www.technologyreview.com/2026/04/07/1134966/enabling
+14:56:17  INFO     [insight] Claude 成功 (attempt 1) | title=AI 代理推动企业流程从静态规则向动态优化转型
+14:56:17  INFO     [cache] hit  | ns=insight key=https://www.artificialintelligence-news.com/news/anthropic-k
+14:56:17  INFO     [cache] hit  | ns=insight key=https://www.artificialintelligence-news.com/news/microsoft-o
+14:56:17  INFO     [pipeline] RUN SUMMARY:
+14:56:17  INFO       date         : 2026-04-13
+14:56:17  INFO       deep_dive    : 5
+14:56:17  INFO       brief        : 10
+14:56:17  INFO       total_articles: 15
+14:56:17  INFO       market_pulse : 今天没有单一主线，但多个信号同时指向同一个方向：AI 商业化正在进入以客户留存为核心的新阶段，而不是以功能堆叠为主的早期...
+14:58:59  INFO     [cache] hit  | ns=summary key=https://venturebeat.com/technology/the-creator-of-claude-cod
+14:58:59  INFO     [cache] hit  | ns=summary key=https://venturebeat.com/infrastructure/claude-code-costs-up-
+14:58:59  INFO     [cache] hit  | ns=summary key=https://www.artificialintelligence-news.com/news/anthropic-k
+14:58:59  INFO     [cache] hit  | ns=summary key=https://www.artificialintelligence-news.com/news/microsoft-o
+14:58:59  INFO     [cache] miss | ns=summary key=https://venturebeat.com/infrastructure/railway-secures-usd10
+14:59:09  INFO     [cache] hit  | ns=summary key=https://www.wired.com/story/how-the-internet-broke-everyones
+14:59:09  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/transportation/909480/solid-state-b
+14:59:09  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai
+14:59:09  INFO     [cache] hit  | ns=summary key=https://www.zdnet.com/article/best-ar-and-mr-glasses/|brief
+14:59:09  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/10/snap-gets-closer-to-releas
+14:59:09  INFO     [cache] hit  | ns=summary key=https://www.technologyreview.com/2026/04/07/1135235/desalina
+14:59:09  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/gadgets/2026/04/youtube-increases-pr
+14:59:09  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/10/battery-recycler-ascend-el
+14:59:09  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at
+14:59:09  INFO     [cache] hit  | ns=insight key=https://venturebeat.com/technology/the-creator-of-claude-cod
+14:59:09  INFO     [cache] hit  | ns=insight key=https://venturebeat.com/infrastructure/claude-code-costs-up-
+14:59:09  INFO     [cache] hit  | ns=insight key=https://www.artificialintelligence-news.com/news/anthropic-k
+14:59:09  INFO     [cache] hit  | ns=insight key=https://www.artificialintelligence-news.com/news/microsoft-o
+14:59:09  INFO     [cache] miss | ns=insight key=https://venturebeat.com/infrastructure/railway-secures-usd10
+14:59:14  INFO     [insight] Claude 成功 (attempt 1) | title=Railway 融资 1 亿美元挑战 AWS，AI 原生云基础设施崛起
+14:59:14  INFO     [pipeline] RUN SUMMARY:
+14:59:14  INFO       date         : 2026-04-13
+14:59:14  INFO       deep_dive    : 5
+14:59:14  INFO       brief        : 9
+14:59:14  INFO       total_articles: 14
+14:59:14  INFO       market_pulse : 今天没有单一主线，但多个信号同时指向同一个方向：AI 商业化正在进入以客户留存为核心的新阶段，而不是以功能堆叠为主的早期...
+15:04:38  INFO     [cache] hit  | ns=summary key=https://venturebeat.com/technology/the-creator-of-claude-cod
+15:04:38  INFO     [cache] hit  | ns=summary key=https://venturebeat.com/infrastructure/railway-secures-usd10
+15:04:38  INFO     [cache] hit  | ns=summary key=https://venturebeat.com/infrastructure/claude-code-costs-up-
+15:04:38  INFO     [cache] hit  | ns=summary key=https://www.technologyreview.com/2026/04/07/1134966/enabling
+15:04:38  INFO     [cache] hit  | ns=summary key=https://www.artificialintelligence-news.com/news/anthropic-k
+15:04:38  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/transportation/909480/solid-state-b
+15:04:38  INFO     [cache] hit  | ns=summary key=https://www.zdnet.com/article/best-ar-and-mr-glasses/|brief
+15:04:38  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai
+15:04:38  INFO     [cache] hit  | ns=summary key=https://www.wired.com/story/how-the-internet-broke-everyones
+15:04:38  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/10/snap-gets-closer-to-releas
+15:04:38  INFO     [cache] hit  | ns=summary key=https://www.technologyreview.com/2026/04/07/1135235/desalina
+15:04:38  INFO     [cache] hit  | ns=summary key=https://www.zdnet.com/article/suunto-spark-review/|brief
+15:04:38  INFO     [cache] miss | ns=summary key=https://www.technologyreview.com/2026/04/10/1135631/whats-in
+15:04:43  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/10/every-fusion-startup-that-
+15:04:48  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at
+15:04:48  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/gadgets/2026/04/youtube-increases-pr
+15:04:48  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-e
+15:04:48  INFO     [cache] hit  | ns=insight key=https://venturebeat.com/technology/the-creator-of-claude-cod
+15:04:48  INFO     [cache] hit  | ns=insight key=https://venturebeat.com/infrastructure/railway-secures-usd10
+15:04:48  INFO     [cache] hit  | ns=insight key=https://venturebeat.com/infrastructure/claude-code-costs-up-
+15:04:48  INFO     [cache] hit  | ns=insight key=https://www.technologyreview.com/2026/04/07/1134966/enabling
+15:04:48  INFO     [cache] hit  | ns=insight key=https://www.artificialintelligence-news.com/news/anthropic-k
+15:04:48  INFO     [pipeline] RUN SUMMARY:
+15:04:48  INFO       date         : 2026-04-13
+15:04:48  INFO       deep_dive    : 5
+15:04:48  INFO       brief        : 12
+15:04:48  INFO       total_articles: 17
+15:04:48  INFO       market_pulse : 今天没有单一主线，但多个信号同时指向同一个方向：AI 商业化正在进入以客户留存为核心的新阶段，而不是以功能堆叠为主的早期...
+15:06:50  INFO     ==================================================
+15:06:50  INFO     [ingestion] start — 2026-04-13 15:06:50
+15:06:50  INFO     [fetch] TechCrunch ...
+15:06:50  INFO     [fetch] TechCrunch: OK — 15 entries
+15:06:50  INFO     [fetch] The Verge ...
+15:06:50  INFO     [fetch] The Verge: OK — 10 entries
+15:06:50  INFO     [fetch] VentureBeat AI ...
+15:06:50  INFO     [fetch] VentureBeat AI: OK — 7 entries
+15:06:50  INFO     [fetch] Ars Technica ...
+15:06:50  INFO     [fetch] Ars Technica: OK — 15 entries
+15:06:50  INFO     [fetch] MIT Tech Review ...
+15:06:50  INFO     [fetch] MIT Tech Review: OK — 10 entries
+15:06:50  INFO     [fetch] Wired ...
+15:06:50  INFO     [fetch] Wired: OK — 10 entries
+15:06:50  INFO     [fetch] AI News ...
+15:06:52  INFO     [fetch] AI News: OK — 10 entries
+15:06:52  INFO     [fetch] ZDNet AI ...
+15:06:52  INFO     [fetch] ZDNet AI: OK — 10 entries
+15:06:52  INFO     [raw] saved 84 articles → data/raw/2026-04-13_articles.json
+15:06:52  INFO     --------------------------------------------------
+15:06:52  INFO     [ingestion] SOURCE HEALTH:
+15:06:52  INFO       ✓  TechCrunch            15 articles  [OK]
+15:06:52  INFO       ✓  The Verge             10 articles  [OK]
+15:06:52  INFO       ✓  VentureBeat AI         7 articles  [OK]
+15:06:52  INFO       ✓  Ars Technica          15 articles  [OK]
+15:06:52  INFO       ✓  MIT Tech Review       10 articles  [OK]
+15:06:52  INFO       ✓  Wired                 10 articles  [OK]
+15:06:52  INFO       ✓  AI News               10 articles  [OK]
+15:06:52  INFO       ✓  ZDNet AI              10 articles  [OK]
+15:06:52  INFO     --------------------------------------------------
+15:06:52  INFO     [ingestion] sources  : 8 ok / 0 failed
+15:06:52  INFO     [ingestion] raw total: 87
+15:06:52  INFO     [ingestion] deduped  : 84
+15:06:52  INFO     [ingestion] elapsed  : 2.6s
+15:06:52  INFO     ==================================================
+15:11:06  INFO     [cache] hit  | ns=summary key=https://venturebeat.com/technology/the-creator-of-claude-cod
+15:11:06  INFO     [cache] hit  | ns=summary key=https://venturebeat.com/infrastructure/claude-code-costs-up-
+15:11:06  INFO     [cache] miss | ns=summary key=https://www.theverge.com/tech/911080/microsoft-ai-openclaw-3
+15:11:15  INFO     [cache] hit  | ns=summary key=https://www.artificialintelligence-news.com/news/meta-muse-s
+15:11:15  INFO     [cache] miss | ns=summary key=https://www.artificialintelligence-news.com/news/agentic-ais
+15:11:25  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/12/artificial-intelligence-de
+15:11:30  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-
+15:11:36  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch
+15:11:43  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over
+15:11:49  INFO     [cache] miss | ns=summary key=https://www.wired.com/story/crosswalk-city-hack-cybersecurit
+15:11:55  INFO     [cache] miss | ns=summary key=https://www.technologyreview.com/2026/04/13/1135720/why-opin
+15:12:04  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/13/booking-com-confirms-hacke
+15:12:08  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-e
+15:12:08  INFO     [cache] miss | ns=summary key=https://www.zdnet.com/article/uag-metropolis-wallet-tracker-
+15:12:13  INFO     [cache] hit  | ns=insight key=https://venturebeat.com/technology/the-creator-of-claude-cod
+15:12:13  INFO     [cache] hit  | ns=insight key=https://venturebeat.com/infrastructure/claude-code-costs-up-
+15:12:13  INFO     [cache] miss | ns=insight key=https://www.theverge.com/tech/911080/microsoft-ai-openclaw-3
+15:12:18  INFO     [insight] Claude 成功 (attempt 1) | title=微软测试类 OpenClaw AI 机器人以增强 Copilot 全天候自主运行
+15:12:18  INFO     [cache] hit  | ns=insight key=https://www.artificialintelligence-news.com/news/meta-muse-s
+15:12:18  INFO     [cache] miss | ns=insight key=https://www.artificialintelligence-news.com/news/agentic-ais
+15:12:24  INFO     [insight] Claude 成功 (attempt 1) | title=2026年欧盟 AI 法案下 Agentic AI 的治理挑战
+15:12:24  INFO     [pipeline] RUN SUMMARY:
+15:12:24  INFO       date         : 2026-04-13
+15:12:24  INFO       deep_dive    : 5
+15:12:24  INFO       brief        : 9
+15:12:24  INFO       total_articles: 14
+15:12:24  INFO       market_pulse : 今天的重点在模型能力层的持续演进，但真正的分水岭已不在 benchmark，而在应用落地速度。模型层的差距正在收窄，谁能...
+15:43:37  WARNING  [freshness] deep_dive→brief (age=2365h): The creator of Claude Code just revealed his workflow, 
+15:43:37  WARNING  [freshness] brief 丢弃 (age=2365h): The creator of Claude Code just revealed his workflow, 
+15:43:37  WARNING  [freshness] deep_dive→brief (age=1951h): Railway secures $100 million to challenge AWS with AI-n
+15:43:37  WARNING  [freshness] brief 丢弃 (age=1951h): Railway secures $100 million to challenge AWS with AI-n
+15:43:37  WARNING  [freshness] deep_dive→brief (age=2023h): Claude Code costs up to $200 a month. Goose does the sa
+15:43:37  WARNING  [freshness] brief 丢弃 (age=2023h): Claude Code costs up to $200 a month. Goose does the sa
+15:43:37  WARNING  [freshness] deep_dive→brief (age=151h): Enabling agent-first process redesign
+15:43:37  WARNING  [freshness] brief 丢弃 (age=151h): Enabling agent-first process redesign
+15:43:37  WARNING  [freshness] deep_dive→brief (age=85h): Meta has a competitive AI model but loses its open-sour
+15:43:37  WARNING  [freshness] brief 丢弃 (age=85h): Meta has a competitive AI model but loses its open-sour
+15:43:37  WARNING  [freshness] deep_dive→brief (age=105h): Anthropic keeps new AI model private after it finds tho
+15:43:37  WARNING  [freshness] brief 丢弃 (age=105h): Anthropic keeps new AI model private after it finds tho
+15:43:37  WARNING  [freshness] deep_dive→brief (age=130h): Microsoft open-source toolkit secures AI agents at runt
+15:43:37  WARNING  [freshness] brief 丢弃 (age=130h): Microsoft open-source toolkit secures AI agents at runt
+15:43:37  WARNING  [freshness] deep_dive→brief (age=76h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+15:43:37  WARNING  [freshness] brief 丢弃 (age=76h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+15:43:37  WARNING  [freshness] deep_dive→brief (age=150h): Asylon and Thrive Logic bring physical AI to enterprise
+15:43:37  WARNING  [freshness] brief 丢弃 (age=150h): Asylon and Thrive Logic bring physical AI to enterprise
+15:43:37  WARNING  [freshness] deep_dive→brief (age=95h): ChatGPT finally offers $100/month Pro plan
+15:43:37  WARNING  [freshness] brief 丢弃 (age=95h): ChatGPT finally offers $100/month Pro plan
+15:43:37  WARNING  [freshness] deep_dive→brief (age=76h): What leaked "SteamGPT" files could mean for the PC gami
+15:43:37  WARNING  [freshness] brief 丢弃 (age=76h): What leaked "SteamGPT" files could mean for the PC gami
+15:43:37  WARNING  [freshness] deep_dive→brief (age=127h): Mustafa Suleyman: AI development won’t hit a wall anyti
+15:43:37  WARNING  [freshness] brief 丢弃 (age=127h): Mustafa Suleyman: AI development won’t hit a wall anyti
+15:43:37  WARNING  [freshness] deep_dive→brief (age=102h): Agentic AI’s governance challenges under the EU AI Act 
+15:43:37  WARNING  [freshness] brief 丢弃 (age=102h): Agentic AI’s governance challenges under the EU AI Act 
+15:43:37  WARNING  [freshness] deep_dive→brief (age=130h): AI’s software development success and central managemen
+15:43:37  WARNING  [freshness] brief 丢弃 (age=130h): AI’s software development success and central managemen
+15:43:37  WARNING  [freshness] deep_dive→brief (age=153h): Boomi calls it “data activation” and says it’s the miss
+15:43:37  WARNING  [freshness] brief 丢弃 (age=153h): Boomi calls it “data activation” and says it’s the miss
+15:43:37  WARNING  [freshness] deep_dive→brief (age=72h): Anthropic temporarily banned OpenClaw’s creator from ac
+15:43:37  WARNING  [freshness] brief 丢弃 (age=72h): Anthropic temporarily banned OpenClaw’s creator from ac
+15:43:37  WARNING  [freshness] deep_dive→brief (age=83h): Why companies like Apple are building AI agents with li
+15:43:37  WARNING  [freshness] brief 丢弃 (age=83h): Why companies like Apple are building AI agents with li
+15:43:37  WARNING  [freshness] deep_dive→brief (age=76h): TechCrunch is heading to Tokyo — and bringing the Start
+15:43:37  WARNING  [freshness] brief 丢弃 (age=76h): TechCrunch is heading to Tokyo — and bringing the Start
+15:43:37  WARNING  [freshness] deep_dive→brief (age=79h): IBM: How robust AI governance protects enterprise margi
+15:43:37  WARNING  [freshness] brief 丢弃 (age=79h): IBM: How robust AI governance protects enterprise margi
+15:43:37  INFO     [freshness] brief 超48h保留 (age=58h): Is the ‘Holy Grail of batteries’ finally ready to bless
+15:43:37  INFO     [freshness] brief 超48h保留 (age=59h): How the Internet Broke Everyone’s Bullshit Detectors
+15:43:37  WARNING  [freshness] brief 丢弃 (age=95h): Florida AG to probe OpenAI, alleging possible connectio
+15:43:37  WARNING  [freshness] brief 丢弃 (age=81h): Snap gets closer to releasing new AI glasses after year
+15:43:37  INFO     [freshness] brief 超48h保留 (age=60h): The best AR and MR glasses in 2026: Expert tested and r
+15:43:37  WARNING  [freshness] brief 丢弃 (age=76h): YouTube increases Premium price again, says 90-second u
+15:43:37  WARNING  [freshness] brief 丢弃 (age=150h): Desalination plants in the Middle East are increasingly
+15:43:37  WARNING  [freshness] brief 丢弃 (age=79h): Every fusion startup that has raised over $100M
+15:43:37  INFO     [freshness] brief 超48h保留 (age=57h): AI models are terrible at betting on soccer—especially 
+15:43:37  WARNING  [freshness] brief 丢弃 (age=79h): Pro-Iran Explosive Media trolls Trump with AI-generated
+15:43:37  WARNING  [freshness] brief 丢弃 (age=75h): Microsoft's "commitment to Windows quality" starts with
+15:43:37  INFO     [cache] miss | ns=summary key=https://arstechnica.com/tech-policy/2026/04/californians-sue
+15:43:47  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+15:43:57  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/transportation/909480/solid-state-b
+15:43:57  INFO     [cache] hit  | ns=summary key=https://www.wired.com/story/how-the-internet-broke-everyones
+15:43:57  INFO     [cache] hit  | ns=summary key=https://www.zdnet.com/article/best-ar-and-mr-glasses/|brief
+15:43:57  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at
+15:43:57  INFO     [cache] miss | ns=insight key=https://arstechnica.com/tech-policy/2026/04/californians-sue
+15:44:00  INFO     [insight] Claude 成功 (attempt 1) | title=加州患者起诉AI公司违规记录医生问诊
+15:44:00  INFO     [cache] miss | ns=insight key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+15:44:03  INFO     [insight] Claude 成功 (attempt 1) | title=SiFive获3.65亿美元融资，RISC-V架构AI芯片受资本青睐
+15:44:09  INFO     [insight] Claude 成功 (attempt 1) | title=closing_note
+15:44:09  INFO     [closing] Claude 生成今日结论成功
+15:44:09  INFO     [pipeline] RUN SUMMARY:
+15:44:09  INFO       date         : 2026-04-13
+15:44:09  INFO       deep_dive    : 2
+15:44:09  INFO       brief        : 4
+15:44:09  INFO       total_articles: 6
+15:44:09  INFO       market_pulse : 今天没有单一主线，但多个信号同时指向同一个方向：AI 商业化正在进入以客户留存为核心的新阶段，而不是以功能堆叠为主的早期...
+15:48:35  WARNING  [freshness] deep_dive→brief (age=2365h): The creator of Claude Code just revealed his workflow, 
+15:48:35  WARNING  [freshness] brief 丢弃 (age=2365h): The creator of Claude Code just revealed his workflow, 
+15:48:35  WARNING  [freshness] deep_dive→brief (age=2023h): Claude Code costs up to $200 a month. Goose does the sa
+15:48:35  WARNING  [freshness] brief 丢弃 (age=2023h): Claude Code costs up to $200 a month. Goose does the sa
+15:48:35  WARNING  [freshness] deep_dive→brief (age=151h): Enabling agent-first process redesign
+15:48:35  WARNING  [freshness] brief 丢弃 (age=151h): Enabling agent-first process redesign
+15:48:35  WARNING  [freshness] deep_dive→brief (age=105h): Anthropic keeps new AI model private after it finds tho
+15:48:35  WARNING  [freshness] brief 丢弃 (age=105h): Anthropic keeps new AI model private after it finds tho
+15:48:35  WARNING  [freshness] deep_dive→brief (age=130h): Microsoft open-source toolkit secures AI agents at runt
+15:48:35  WARNING  [freshness] brief 丢弃 (age=130h): Microsoft open-source toolkit secures AI agents at runt
+15:48:35  WARNING  [freshness] deep_dive→brief (age=1951h): Railway secures $100 million to challenge AWS with AI-n
+15:48:35  WARNING  [freshness] brief 丢弃 (age=1951h): Railway secures $100 million to challenge AWS with AI-n
+15:48:35  WARNING  [freshness] deep_dive→brief (age=76h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+15:48:35  WARNING  [freshness] brief 丢弃 (age=76h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+15:48:35  WARNING  [freshness] deep_dive→brief (age=150h): Asylon and Thrive Logic bring physical AI to enterprise
+15:48:35  WARNING  [freshness] brief 丢弃 (age=150h): Asylon and Thrive Logic bring physical AI to enterprise
+15:48:35  WARNING  [freshness] deep_dive→brief (age=95h): ChatGPT finally offers $100/month Pro plan
+15:48:35  WARNING  [freshness] brief 丢弃 (age=95h): ChatGPT finally offers $100/month Pro plan
+15:48:35  WARNING  [freshness] deep_dive→brief (age=76h): What leaked "SteamGPT" files could mean for the PC gami
+15:48:35  WARNING  [freshness] brief 丢弃 (age=76h): What leaked "SteamGPT" files could mean for the PC gami
+15:48:35  WARNING  [freshness] deep_dive→brief (age=127h): Mustafa Suleyman: AI development won’t hit a wall anyti
+15:48:35  WARNING  [freshness] brief 丢弃 (age=127h): Mustafa Suleyman: AI development won’t hit a wall anyti
+15:48:35  WARNING  [freshness] deep_dive→brief (age=85h): Meta has a competitive AI model but loses its open-sour
+15:48:35  WARNING  [freshness] brief 丢弃 (age=85h): Meta has a competitive AI model but loses its open-sour
+15:48:35  WARNING  [freshness] deep_dive→brief (age=102h): Agentic AI’s governance challenges under the EU AI Act 
+15:48:35  WARNING  [freshness] brief 丢弃 (age=102h): Agentic AI’s governance challenges under the EU AI Act 
+15:48:35  WARNING  [freshness] deep_dive→brief (age=153h): Boomi calls it “data activation” and says it’s the miss
+15:48:35  WARNING  [freshness] brief 丢弃 (age=153h): Boomi calls it “data activation” and says it’s the miss
+15:48:35  WARNING  [freshness] deep_dive→brief (age=72h): Anthropic temporarily banned OpenClaw’s creator from ac
+15:48:35  WARNING  [freshness] brief 丢弃 (age=72h): Anthropic temporarily banned OpenClaw’s creator from ac
+15:48:35  WARNING  [freshness] deep_dive→brief (age=130h): AI’s software development success and central managemen
+15:48:35  WARNING  [freshness] brief 丢弃 (age=130h): AI’s software development success and central managemen
+15:48:35  WARNING  [freshness] deep_dive→brief (age=76h): TechCrunch is heading to Tokyo — and bringing the Start
+15:48:35  WARNING  [freshness] brief 丢弃 (age=76h): TechCrunch is heading to Tokyo — and bringing the Start
+15:48:35  WARNING  [freshness] deep_dive→brief (age=79h): IBM: How robust AI governance protects enterprise margi
+15:48:35  WARNING  [freshness] brief 丢弃 (age=79h): IBM: How robust AI governance protects enterprise margi
+15:48:35  WARNING  [freshness] deep_dive→brief (age=83h): Why companies like Apple are building AI agents with li
+15:48:35  WARNING  [freshness] brief 丢弃 (age=83h): Why companies like Apple are building AI agents with li
+15:48:35  INFO     [freshness] brief 超48h保留 (age=58h): Is the ‘Holy Grail of batteries’ finally ready to bless
+15:48:35  INFO     [freshness] brief 超48h保留 (age=60h): The best AR and MR glasses in 2026: Expert tested and r
+15:48:35  WARNING  [freshness] brief 丢弃 (age=95h): Florida AG to probe OpenAI, alleging possible connectio
+15:48:35  WARNING  [freshness] brief 丢弃 (age=81h): Snap gets closer to releasing new AI glasses after year
+15:48:35  WARNING  [freshness] brief 丢弃 (age=79h): Every fusion startup that has raised over $100M
+15:48:35  WARNING  [freshness] brief 丢弃 (age=76h): YouTube increases Premium price again, says 90-second u
+15:48:35  WARNING  [freshness] brief 丢弃 (age=73h): 20-year-old man arrested for allegedly throwing a Molot
+15:48:35  WARNING  [freshness] brief 丢弃 (age=150h): Desalination plants in the Middle East are increasingly
+15:48:35  INFO     [freshness] brief 超48h保留 (age=58h): AI models are terrible at betting on soccer—especially 
+15:48:35  WARNING  [freshness] brief 丢弃 (age=75h): Microsoft's "commitment to Windows quality" starts with
+15:48:35  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+15:48:35  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/tech-policy/2026/04/californians-sue
+15:48:35  INFO     [cache] miss | ns=summary key=https://www.wired.com/story/how-the-internet-broke-everyones
+15:48:44  INFO     [cache] miss | ns=summary key=https://www.theverge.com/transportation/909480/solid-state-b
+15:48:49  INFO     [cache] miss | ns=summary key=https://www.zdnet.com/article/best-ar-and-mr-glasses/|brief
+15:48:55  INFO     [cache] miss | ns=summary key=https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at
+15:49:00  INFO     [cache] hit  | ns=insight key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+15:49:00  INFO     [cache] hit  | ns=insight key=https://arstechnica.com/tech-policy/2026/04/californians-sue
+15:49:00  INFO     [cache] miss | ns=insight key=https://www.wired.com/story/how-the-internet-broke-everyones
+15:49:03  INFO     [insight] Claude 成功 (attempt 1) | title=互联网真实性验证体系正面临AI与数据限制的双重挑战
+15:49:09  INFO     [insight] Claude 成功 (attempt 1) | title=closing_note
+15:49:09  INFO     [closing] Claude 生成今日结论成功
+15:49:09  INFO     [pipeline] RUN SUMMARY:
+15:49:09  INFO       date         : 2026-04-13
+15:49:09  INFO       deep_dive    : 3
+15:49:09  INFO       brief        : 3
+15:49:09  INFO       total_articles: 6
+15:49:09  INFO       market_pulse : 今天的核心信号来自算力基础设施层，供应链与算力入口的争夺正在进入新的激烈阶段。算力竞争的决胜点已不只是硬件产能——谁能把...
+15:52:10  INFO     ==================================================
+15:52:10  INFO     [ingestion] start — 2026-04-13 15:52:10
+15:52:10  INFO     [fetch] TechCrunch ...
+15:52:10  INFO     [fetch] TechCrunch: OK — 15 entries
+15:52:10  INFO     [fetch] The Verge ...
+15:52:10  INFO     [fetch] The Verge: OK — 10 entries
+15:52:10  INFO     [fetch] VentureBeat AI ...
+15:52:10  INFO     [fetch] VentureBeat AI: OK — 7 entries
+15:52:10  INFO     [fetch] Ars Technica ...
+15:52:11  INFO     [fetch] Ars Technica: OK — 15 entries
+15:52:11  INFO     [fetch] MIT Tech Review ...
+15:52:11  INFO     [fetch] MIT Tech Review: OK — 10 entries
+15:52:11  INFO     [fetch] Wired ...
+15:52:11  INFO     [fetch] Wired: OK — 10 entries
+15:52:11  INFO     [fetch] AI News ...
+15:52:12  INFO     [fetch] AI News: OK — 10 entries
+15:52:12  INFO     [fetch] ZDNet AI ...
+15:52:12  INFO     [fetch] ZDNet AI: OK — 10 entries
+15:52:12  INFO     [raw] saved 84 articles → data/raw/2026-04-13_articles.json
+15:52:12  INFO     --------------------------------------------------
+15:52:12  INFO     [ingestion] SOURCE HEALTH:
+15:52:12  INFO       ✓  TechCrunch            15 articles  [OK]
+15:52:12  INFO       ✓  The Verge             10 articles  [OK]
+15:52:12  INFO       ✓  VentureBeat AI         7 articles  [OK]
+15:52:12  INFO       ✓  Ars Technica          15 articles  [OK]
+15:52:12  INFO       ✓  MIT Tech Review       10 articles  [OK]
+15:52:12  INFO       ✓  Wired                 10 articles  [OK]
+15:52:12  INFO       ✓  AI News               10 articles  [OK]
+15:52:12  INFO       ✓  ZDNet AI              10 articles  [OK]
+15:52:12  INFO     --------------------------------------------------
+15:52:12  INFO     [ingestion] sources  : 8 ok / 0 failed
+15:52:12  INFO     [ingestion] raw total: 87
+15:52:12  INFO     [ingestion] deduped  : 84
+15:52:12  INFO     [ingestion] elapsed  : 2.6s
+15:52:12  INFO     ==================================================
+15:56:15  WARNING  [freshness] deep_dive→brief (age=2365h): The creator of Claude Code just revealed his workflow, 
+15:56:15  WARNING  [freshness] brief 丢弃 (age=2365h): The creator of Claude Code just revealed his workflow, 
+15:56:15  WARNING  [freshness] deep_dive→brief (age=1951h): Railway secures $100 million to challenge AWS with AI-n
+15:56:15  WARNING  [freshness] brief 丢弃 (age=1951h): Railway secures $100 million to challenge AWS with AI-n
+15:56:15  WARNING  [freshness] deep_dive→brief (age=2023h): Claude Code costs up to $200 a month. Goose does the sa
+15:56:15  WARNING  [freshness] brief 丢弃 (age=2023h): Claude Code costs up to $200 a month. Goose does the sa
+15:56:15  WARNING  [freshness] deep_dive→brief (age=105h): Anthropic keeps new AI model private after it finds tho
+15:56:15  WARNING  [freshness] brief 丢弃 (age=105h): Anthropic keeps new AI model private after it finds tho
+15:56:15  WARNING  [freshness] deep_dive→brief (age=131h): Microsoft open-source toolkit secures AI agents at runt
+15:56:15  WARNING  [freshness] brief 丢弃 (age=131h): Microsoft open-source toolkit secures AI agents at runt
+15:56:15  WARNING  [freshness] deep_dive→brief (age=150h): Asylon and Thrive Logic bring physical AI to enterprise
+15:56:15  WARNING  [freshness] brief 丢弃 (age=150h): Asylon and Thrive Logic bring physical AI to enterprise
+15:56:15  WARNING  [freshness] deep_dive→brief (age=83h): Why companies like Apple are building AI agents with li
+15:56:15  WARNING  [freshness] brief 丢弃 (age=83h): Why companies like Apple are building AI agents with li
+15:56:15  WARNING  [freshness] deep_dive→brief (age=85h): Meta has a competitive AI model but loses its open-sour
+15:56:15  WARNING  [freshness] brief 丢弃 (age=85h): Meta has a competitive AI model but loses its open-sour
+15:56:15  WARNING  [freshness] deep_dive→brief (age=102h): Agentic AI’s governance challenges under the EU AI Act 
+15:56:15  WARNING  [freshness] brief 丢弃 (age=102h): Agentic AI’s governance challenges under the EU AI Act 
+15:56:15  WARNING  [freshness] deep_dive→brief (age=130h): AI’s software development success and central managemen
+15:56:15  WARNING  [freshness] brief 丢弃 (age=130h): AI’s software development success and central managemen
+15:56:15  WARNING  [freshness] deep_dive→brief (age=79h): IBM: How robust AI governance protects enterprise margi
+15:56:15  WARNING  [freshness] brief 丢弃 (age=79h): IBM: How robust AI governance protects enterprise margi
+15:56:15  WARNING  [freshness] brief 丢弃 (age=75h): Microsoft's "commitment to Windows quality" starts with
+15:56:15  INFO     [cache] miss | ns=summary key=https://www.technologyreview.com/2026/04/13/1135675/want-to-
+15:56:26  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/tech/911080/microsoft-ai-openclaw-3
+15:56:26  INFO     [cache] miss | ns=summary key=https://www.theverge.com/ai-artificial-intelligence/911118/o
+15:56:34  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/13/stanford-report-highlights
+15:56:42  INFO     [cache] miss | ns=summary key=https://www.wired.com/story/meta-ray-ban-oakley-smart-glasse
+15:56:51  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-
+15:56:56  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch
+15:57:02  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/13/booking-com-confirms-hacke
+15:57:07  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over
+15:57:12  INFO     [cache] miss | ns=summary key=https://www.theverge.com/tech/911322/microsoft-surface-price
+15:57:17  INFO     [cache] miss | ns=summary key=https://www.zdnet.com/article/i-camera-tested-the-samsung-ga
+15:57:22  INFO     [cache] miss | ns=summary key=https://www.technologyreview.com/2026/04/13/1135720/why-opin
+15:57:28  INFO     [cache] miss | ns=summary key=https://arstechnica.com/cars/2026/04/slate-auto-raises-650-m
+15:57:34  INFO     [cache] miss | ns=insight key=https://www.technologyreview.com/2026/04/13/1135675/want-to-
+15:57:39  INFO     [insight] Claude 成功 (attempt 1) | title=斯坦福 AI 指数报告揭示 AI 行业正从技术竞赛转向商业化落地
+15:57:39  INFO     [cache] hit  | ns=insight key=https://www.theverge.com/tech/911080/microsoft-ai-openclaw-3
+15:57:39  INFO     [cache] miss | ns=insight key=https://www.theverge.com/ai-artificial-intelligence/911118/o
+15:57:44  INFO     [insight] Claude 成功 (attempt 1) | title=OpenAI 内部备忘录强调构建商业护城河，聚焦企业用户增长
+15:57:44  INFO     [cache] miss | ns=insight key=https://techcrunch.com/2026/04/13/stanford-report-highlights
+15:57:48  INFO     [insight] Claude 成功 (attempt 1) | title=斯坦福报告：AI 专家与公众认知差距持续扩大
+15:57:48  INFO     [cache] miss | ns=insight key=https://www.wired.com/story/meta-ray-ban-oakley-smart-glasse
+15:57:50  INFO     [insight] Claude 成功 (attempt 1) | title=Meta AI 智能眼镜遭 70 多家机构联名反对，称将威胁弱势群体安全
+15:57:57  INFO     [insight] Claude 成功 (attempt 1) | title=closing_note
+15:57:57  INFO     [closing] Claude 生成今日结论成功
+15:57:57  INFO     [pipeline] RUN SUMMARY:
+15:57:57  INFO       date         : 2026-04-13
+15:57:57  INFO       deep_dive    : 5
+15:57:57  INFO       brief        : 8
+15:57:57  INFO       total_articles: 13
+15:57:57  INFO       market_pulse : 今天资本的信号比较清晰：AI 赛道的押注节奏仍在提速，而且方向在向应用层集中。这一轮融资浪潮的结构变化在于：钱不再只进模...
+16:13:29  WARNING  [freshness] deep_dive→brief (age=2365h): The creator of Claude Code just revealed his workflow, 
+16:13:29  WARNING  [freshness] brief 丢弃 (age=2365h): The creator of Claude Code just revealed his workflow, 
+16:13:29  WARNING  [freshness] deep_dive→brief (age=1951h): Railway secures $100 million to challenge AWS with AI-n
+16:13:29  WARNING  [freshness] brief 丢弃 (age=1951h): Railway secures $100 million to challenge AWS with AI-n
+16:13:29  WARNING  [freshness] deep_dive→brief (age=2023h): Claude Code costs up to $200 a month. Goose does the sa
+16:13:29  WARNING  [freshness] brief 丢弃 (age=2023h): Claude Code costs up to $200 a month. Goose does the sa
+16:13:29  WARNING  [freshness] deep_dive→brief (age=85h): Meta has a competitive AI model but loses its open-sour
+16:13:29  WARNING  [freshness] brief 丢弃 (age=85h): Meta has a competitive AI model but loses its open-sour
+16:13:29  WARNING  [freshness] deep_dive→brief (age=105h): Anthropic keeps new AI model private after it finds tho
+16:13:29  WARNING  [freshness] brief 丢弃 (age=105h): Anthropic keeps new AI model private after it finds tho
+16:13:29  WARNING  [freshness] deep_dive→brief (age=131h): Microsoft open-source toolkit secures AI agents at runt
+16:13:29  WARNING  [freshness] brief 丢弃 (age=131h): Microsoft open-source toolkit secures AI agents at runt
+16:13:29  WARNING  [freshness] deep_dive→brief (age=151h): Asylon and Thrive Logic bring physical AI to enterprise
+16:13:29  WARNING  [freshness] brief 丢弃 (age=151h): Asylon and Thrive Logic bring physical AI to enterprise
+16:13:29  WARNING  [freshness] deep_dive→brief (age=102h): Agentic AI’s governance challenges under the EU AI Act 
+16:13:29  WARNING  [freshness] brief 丢弃 (age=102h): Agentic AI’s governance challenges under the EU AI Act 
+16:13:29  WARNING  [freshness] deep_dive→brief (age=131h): AI’s software development success and central managemen
+16:13:29  WARNING  [freshness] brief 丢弃 (age=131h): AI’s software development success and central managemen
+16:13:29  WARNING  [freshness] deep_dive→brief (age=79h): IBM: How robust AI governance protects enterprise margi
+16:13:29  WARNING  [freshness] brief 丢弃 (age=79h): IBM: How robust AI governance protects enterprise margi
+16:13:29  WARNING  [freshness] deep_dive→brief (age=83h): Why companies like Apple are building AI agents with li
+16:13:29  WARNING  [freshness] brief 丢弃 (age=83h): Why companies like Apple are building AI agents with li
+16:13:29  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/ai-artificial-intelligence/911118/o
+16:13:29  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/tech/911080/microsoft-ai-openclaw-3
+16:13:29  INFO     [cache] hit  | ns=summary key=https://www.wired.com/story/meta-ray-ban-oakley-smart-glasse
+16:13:29  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/stanford-report-highlights
+16:13:29  INFO     [cache] miss | ns=summary key=https://arstechnica.com/science/2026/04/to-teach-in-the-time
+16:13:39  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch
+16:13:39  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-
+16:13:39  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/booking-com-confirms-hacke
+16:13:39  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over
+16:13:39  INFO     [cache] hit  | ns=summary key=https://www.technologyreview.com/2026/04/13/1135720/why-opin
+16:13:39  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/tech/911322/microsoft-surface-price
+16:13:39  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/cars/2026/04/slate-auto-raises-650-m
+16:13:39  INFO     [cache] hit  | ns=insight key=https://www.theverge.com/ai-artificial-intelligence/911118/o
+16:13:39  INFO     [cache] hit  | ns=insight key=https://www.theverge.com/tech/911080/microsoft-ai-openclaw-3
+16:13:39  INFO     [cache] hit  | ns=insight key=https://www.wired.com/story/meta-ray-ban-oakley-smart-glasse
+16:13:39  INFO     [cache] hit  | ns=insight key=https://techcrunch.com/2026/04/13/stanford-report-highlights
+16:13:39  INFO     [cache] miss | ns=insight key=https://arstechnica.com/science/2026/04/to-teach-in-the-time
+16:13:42  INFO     [insight] Claude 成功 (attempt 1) | title=AI生成内容冲击高校教学，教授称其成为最令人沮丧的问题
+16:13:48  INFO     [insight] Claude 成功 (attempt 1) | title=closing_note
+16:13:48  INFO     [closing] Claude 生成今日结论成功
+16:13:48  INFO     [pipeline] RUN SUMMARY:
+16:13:48  INFO       date         : 2026-04-13
+16:13:48  INFO       deep_dive    : 5
+16:13:48  INFO       brief        : 7
+16:13:48  INFO       total_articles: 12
+16:13:48  INFO       market_pulse : 今天资本的信号比较清晰：AI 赛道的押注节奏仍在提速，而且方向在向应用层集中。这一轮融资浪潮的结构变化在于：钱不再只进模...
+16:18:14  WARNING  [freshness] deep_dive→brief (age=2366h): The creator of Claude Code just revealed his workflow, 
+16:18:14  WARNING  [freshness] brief 丢弃 (age=2366h): The creator of Claude Code just revealed his workflow, 
+16:18:14  WARNING  [freshness] deep_dive→brief (age=2023h): Claude Code costs up to $200 a month. Goose does the sa
+16:18:14  WARNING  [freshness] brief 丢弃 (age=2023h): Claude Code costs up to $200 a month. Goose does the sa
+16:18:14  WARNING  [freshness] deep_dive→brief (age=105h): Anthropic keeps new AI model private after it finds tho
+16:18:14  WARNING  [freshness] brief 丢弃 (age=105h): Anthropic keeps new AI model private after it finds tho
+16:18:14  WARNING  [freshness] deep_dive→brief (age=131h): Microsoft open-source toolkit secures AI agents at runt
+16:18:14  WARNING  [freshness] brief 丢弃 (age=131h): Microsoft open-source toolkit secures AI agents at runt
+16:18:14  WARNING  [freshness] deep_dive→brief (age=1951h): Railway secures $100 million to challenge AWS with AI-n
+16:18:14  WARNING  [freshness] brief 丢弃 (age=1951h): Railway secures $100 million to challenge AWS with AI-n
+16:18:14  WARNING  [freshness] deep_dive→brief (age=151h): Asylon and Thrive Logic bring physical AI to enterprise
+16:18:14  WARNING  [freshness] brief 丢弃 (age=151h): Asylon and Thrive Logic bring physical AI to enterprise
+16:18:14  WARNING  [freshness] deep_dive→brief (age=102h): Agentic AI’s governance challenges under the EU AI Act 
+16:18:14  WARNING  [freshness] brief 丢弃 (age=102h): Agentic AI’s governance challenges under the EU AI Act 
+16:18:14  WARNING  [freshness] deep_dive→brief (age=83h): Why companies like Apple are building AI agents with li
+16:18:14  WARNING  [freshness] brief 丢弃 (age=83h): Why companies like Apple are building AI agents with li
+16:18:14  WARNING  [freshness] deep_dive→brief (age=131h): AI’s software development success and central managemen
+16:18:14  WARNING  [freshness] brief 丢弃 (age=131h): AI’s software development success and central managemen
+16:18:14  WARNING  [freshness] deep_dive→brief (age=85h): Meta has a competitive AI model but loses its open-sour
+16:18:14  WARNING  [freshness] brief 丢弃 (age=85h): Meta has a competitive AI model but loses its open-sour
+16:18:14  WARNING  [freshness] deep_dive→brief (age=79h): IBM: How robust AI governance protects enterprise margi
+16:18:14  WARNING  [freshness] brief 丢弃 (age=79h): IBM: How robust AI governance protects enterprise margi
+16:18:14  WARNING  [freshness] brief 丢弃 (age=75h): Microsoft's "commitment to Windows quality" starts with
+16:18:14  INFO     [cache] hit  | ns=summary key=https://www.technologyreview.com/2026/04/13/1135675/want-to-
+16:18:14  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/ai-artificial-intelligence/911118/o
+16:18:14  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/stanford-report-highlights
+16:18:14  INFO     [cache] hit  | ns=summary key=https://www.wired.com/story/meta-ray-ban-oakley-smart-glasse
+16:18:14  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/science/2026/04/to-teach-in-the-time
+16:18:14  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-
+16:18:20  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch
+16:18:26  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over
+16:18:32  INFO     [cache] miss | ns=summary key=https://www.theverge.com/tech/911322/microsoft-surface-price
+16:18:38  INFO     [cache] miss | ns=summary key=https://arstechnica.com/cars/2026/04/slate-auto-raises-650-m
+16:18:45  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/13/booking-com-confirms-hacke
+16:18:50  INFO     [cache] hit  | ns=insight key=https://www.technologyreview.com/2026/04/13/1135675/want-to-
+16:18:50  INFO     [cache] hit  | ns=insight key=https://www.theverge.com/ai-artificial-intelligence/911118/o
+16:18:50  INFO     [cache] hit  | ns=insight key=https://techcrunch.com/2026/04/13/stanford-report-highlights
+16:18:50  INFO     [cache] hit  | ns=insight key=https://www.wired.com/story/meta-ray-ban-oakley-smart-glasse
+16:18:50  INFO     [cache] hit  | ns=insight key=https://arstechnica.com/science/2026/04/to-teach-in-the-time
+16:18:58  INFO     [insight] Claude 成功 (attempt 1) | title=closing_note
+16:18:58  INFO     [closing] Claude 生成今日结论成功
+16:18:58  INFO     [pipeline] RUN SUMMARY:
+16:18:58  INFO       date         : 2026-04-13
+16:18:58  INFO       deep_dive    : 5
+16:18:58  INFO       brief        : 6
+16:18:58  INFO       total_articles: 11
+16:18:58  INFO       market_pulse : 今天资本的信号比较清晰：AI 赛道的押注节奏仍在提速，而且方向在向应用层集中。这一轮融资浪潮的结构变化在于：钱不再只进模...
+16:22:59  WARNING  [freshness] deep_dive→brief (age=2366h): The creator of Claude Code just revealed his workflow, 
+16:22:59  WARNING  [freshness] brief 丢弃 (age=2366h): The creator of Claude Code just revealed his workflow, 
+16:22:59  WARNING  [freshness] deep_dive→brief (age=1951h): Railway secures $100 million to challenge AWS with AI-n
+16:22:59  WARNING  [freshness] brief 丢弃 (age=1951h): Railway secures $100 million to challenge AWS with AI-n
+16:22:59  WARNING  [freshness] deep_dive→brief (age=2023h): Claude Code costs up to $200 a month. Goose does the sa
+16:22:59  WARNING  [freshness] brief 丢弃 (age=2023h): Claude Code costs up to $200 a month. Goose does the sa
+16:22:59  WARNING  [freshness] deep_dive→brief (age=105h): Anthropic keeps new AI model private after it finds tho
+16:22:59  WARNING  [freshness] brief 丢弃 (age=105h): Anthropic keeps new AI model private after it finds tho
+16:22:59  WARNING  [freshness] deep_dive→brief (age=131h): Microsoft open-source toolkit secures AI agents at runt
+16:22:59  WARNING  [freshness] brief 丢弃 (age=131h): Microsoft open-source toolkit secures AI agents at runt
+16:22:59  WARNING  [freshness] deep_dive→brief (age=151h): Asylon and Thrive Logic bring physical AI to enterprise
+16:22:59  WARNING  [freshness] brief 丢弃 (age=151h): Asylon and Thrive Logic bring physical AI to enterprise
+16:22:59  WARNING  [freshness] deep_dive→brief (age=85h): Meta has a competitive AI model but loses its open-sour
+16:22:59  WARNING  [freshness] brief 丢弃 (age=85h): Meta has a competitive AI model but loses its open-sour
+16:22:59  WARNING  [freshness] deep_dive→brief (age=102h): Agentic AI’s governance challenges under the EU AI Act 
+16:22:59  WARNING  [freshness] brief 丢弃 (age=102h): Agentic AI’s governance challenges under the EU AI Act 
+16:22:59  WARNING  [freshness] deep_dive→brief (age=79h): IBM: How robust AI governance protects enterprise margi
+16:22:59  WARNING  [freshness] brief 丢弃 (age=79h): IBM: How robust AI governance protects enterprise margi
+16:22:59  WARNING  [freshness] deep_dive→brief (age=83h): Why companies like Apple are building AI agents with li
+16:22:59  WARNING  [freshness] brief 丢弃 (age=83h): Why companies like Apple are building AI agents with li
+16:22:59  WARNING  [freshness] deep_dive→brief (age=131h): AI’s software development success and central managemen
+16:22:59  WARNING  [freshness] brief 丢弃 (age=131h): AI’s software development success and central managemen
+16:22:59  INFO     [cache] hit  | ns=summary key=https://www.technologyreview.com/2026/04/13/1135675/want-to-
+16:22:59  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/ai-artificial-intelligence/911118/o
+16:22:59  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/stanford-report-highlights
+16:22:59  INFO     [cache] hit  | ns=summary key=https://www.wired.com/story/meta-ray-ban-oakley-smart-glasse
+16:22:59  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/science/2026/04/to-teach-in-the-time
+16:22:59  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch
+16:22:59  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/12/techcrunch-mobility-who-is
+16:23:05  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-
+16:23:05  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/booking-com-confirms-hacke
+16:23:05  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over
+16:23:05  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/tech/911322/microsoft-surface-price
+16:23:05  INFO     [cache] miss | ns=summary key=https://www.technologyreview.com/2026/04/13/1135720/why-opin
+16:23:12  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/cars/2026/04/slate-auto-raises-650-m
+16:23:12  INFO     [cache] hit  | ns=insight key=https://www.technologyreview.com/2026/04/13/1135675/want-to-
+16:23:12  INFO     [cache] hit  | ns=insight key=https://www.theverge.com/ai-artificial-intelligence/911118/o
+16:23:12  INFO     [cache] hit  | ns=insight key=https://techcrunch.com/2026/04/13/stanford-report-highlights
+16:23:12  INFO     [cache] hit  | ns=insight key=https://www.wired.com/story/meta-ray-ban-oakley-smart-glasse
+16:23:12  INFO     [cache] hit  | ns=insight key=https://arstechnica.com/science/2026/04/to-teach-in-the-time
+16:23:21  INFO     [insight] Claude 成功 (attempt 1) | title=closing_note
+16:23:21  INFO     [closing] Claude 生成今日结论成功
+16:23:21  INFO     [pipeline] RUN SUMMARY:
+16:23:21  INFO       date         : 2026-04-13
+16:23:21  INFO       deep_dive    : 5
+16:23:21  INFO       brief        : 8
+16:23:21  INFO       total_articles: 13
+16:23:21  INFO       market_pulse : 今天资本的信号比较清晰：AI 赛道的押注节奏仍在提速，而且方向在向应用层集中。这一轮融资浪潮的结构变化在于：钱不再只进模...
+16:25:31  INFO     ==================================================
+16:25:31  INFO     [ingestion] start — 2026-04-13 16:25:31
+16:25:31  INFO     [fetch] TechCrunch ...
+16:25:31  INFO     [fetch] TechCrunch: OK — 15 entries
+16:25:31  INFO     [fetch] The Verge ...
+16:25:31  INFO     [fetch] The Verge: OK — 10 entries
+16:25:31  INFO     [fetch] VentureBeat AI ...
+16:25:31  INFO     [fetch] VentureBeat AI: OK — 7 entries
+16:25:31  INFO     [fetch] Ars Technica ...
+16:25:31  INFO     [fetch] Ars Technica: OK — 15 entries
+16:25:31  INFO     [fetch] MIT Tech Review ...
+16:25:31  INFO     [fetch] MIT Tech Review: OK — 10 entries
+16:25:31  INFO     [fetch] Wired ...
+16:25:32  INFO     [fetch] Wired: OK — 10 entries
+16:25:32  INFO     [fetch] AI News ...
+16:25:33  INFO     [fetch] AI News: OK — 10 entries
+16:25:33  INFO     [fetch] ZDNet AI ...
+16:25:33  INFO     [fetch] ZDNet AI: OK — 10 entries
+16:25:33  INFO     [raw] saved 84 articles → data/raw/2026-04-13_articles.json
+16:25:33  INFO     --------------------------------------------------
+16:25:33  INFO     [ingestion] SOURCE HEALTH:
+16:25:33  INFO       ✓  TechCrunch            15 articles  [OK]
+16:25:33  INFO       ✓  The Verge             10 articles  [OK]
+16:25:33  INFO       ✓  VentureBeat AI         7 articles  [OK]
+16:25:33  INFO       ✓  Ars Technica          15 articles  [OK]
+16:25:33  INFO       ✓  MIT Tech Review       10 articles  [OK]
+16:25:33  INFO       ✓  Wired                 10 articles  [OK]
+16:25:33  INFO       ✓  AI News               10 articles  [OK]
+16:25:33  INFO       ✓  ZDNet AI              10 articles  [OK]
+16:25:33  INFO     --------------------------------------------------
+16:25:33  INFO     [ingestion] sources  : 8 ok / 0 failed
+16:25:33  INFO     [ingestion] raw total: 87
+16:25:33  INFO     [ingestion] deduped  : 84
+16:25:33  INFO     [ingestion] elapsed  : 2.4s
+16:25:33  INFO     ==================================================
+16:29:25  WARNING  [freshness] deep_dive→brief (age=2366h): The creator of Claude Code just revealed his workflow, 
+16:29:25  WARNING  [freshness] brief 丢弃 (age=2366h): The creator of Claude Code just revealed his workflow, 
+16:29:25  WARNING  [freshness] deep_dive→brief (age=1951h): Railway secures $100 million to challenge AWS with AI-n
+16:29:25  WARNING  [freshness] brief 丢弃 (age=1951h): Railway secures $100 million to challenge AWS with AI-n
+16:29:25  WARNING  [freshness] deep_dive→brief (age=2023h): Claude Code costs up to $200 a month. Goose does the sa
+16:29:25  WARNING  [freshness] brief 丢弃 (age=2023h): Claude Code costs up to $200 a month. Goose does the sa
+16:29:25  WARNING  [freshness] deep_dive→brief (age=105h): Anthropic keeps new AI model private after it finds tho
+16:29:25  WARNING  [freshness] brief 丢弃 (age=105h): Anthropic keeps new AI model private after it finds tho
+16:29:25  WARNING  [freshness] deep_dive→brief (age=131h): Microsoft open-source toolkit secures AI agents at runt
+16:29:25  WARNING  [freshness] brief 丢弃 (age=131h): Microsoft open-source toolkit secures AI agents at runt
+16:29:25  WARNING  [freshness] deep_dive→brief (age=151h): Asylon and Thrive Logic bring physical AI to enterprise
+16:29:25  WARNING  [freshness] brief 丢弃 (age=151h): Asylon and Thrive Logic bring physical AI to enterprise
+16:29:25  WARNING  [freshness] deep_dive→brief (age=85h): Meta has a competitive AI model but loses its open-sour
+16:29:25  WARNING  [freshness] brief 丢弃 (age=85h): Meta has a competitive AI model but loses its open-sour
+16:29:25  WARNING  [freshness] deep_dive→brief (age=102h): Agentic AI’s governance challenges under the EU AI Act 
+16:29:25  WARNING  [freshness] brief 丢弃 (age=102h): Agentic AI’s governance challenges under the EU AI Act 
+16:29:25  WARNING  [freshness] deep_dive→brief (age=131h): AI’s software development success and central managemen
+16:29:25  WARNING  [freshness] brief 丢弃 (age=131h): AI’s software development success and central managemen
+16:29:25  WARNING  [freshness] deep_dive→brief (age=80h): IBM: How robust AI governance protects enterprise margi
+16:29:25  WARNING  [freshness] brief 丢弃 (age=80h): IBM: How robust AI governance protects enterprise margi
+16:29:25  WARNING  [freshness] deep_dive→brief (age=83h): Why companies like Apple are building AI agents with li
+16:29:25  WARNING  [freshness] brief 丢弃 (age=83h): Why companies like Apple are building AI agents with li
+16:29:25  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/tech/911080/microsoft-ai-openclaw-3
+16:29:25  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/12/trump-officials-may-be-enc
+16:29:33  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/stanford-report-highlights
+16:29:33  INFO     [cache] hit  | ns=summary key=https://www.wired.com/story/meta-ray-ban-oakley-smart-glasse
+16:29:33  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/science/2026/04/to-teach-in-the-time
+16:29:33  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-
+16:29:33  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/booking-com-confirms-hacke
+16:29:33  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over
+16:29:33  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/tech/911322/microsoft-surface-price
+16:29:33  INFO     [cache] hit  | ns=summary key=https://www.technologyreview.com/2026/04/13/1135720/why-opin
+16:29:33  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/cars/2026/04/slate-auto-raises-650-m
+16:29:33  INFO     [cache] hit  | ns=insight key=https://www.theverge.com/tech/911080/microsoft-ai-openclaw-3
+16:29:33  INFO     [cache] miss | ns=insight key=https://techcrunch.com/2026/04/12/trump-officials-may-be-enc
+16:29:37  INFO     [insight] Claude 成功 (attempt 1) | title=特朗普政府官员或推动银行测试Anthropic的Mythos模型
+16:29:37  INFO     [cache] hit  | ns=insight key=https://techcrunch.com/2026/04/13/stanford-report-highlights
+16:29:37  INFO     [cache] hit  | ns=insight key=https://www.wired.com/story/meta-ray-ban-oakley-smart-glasse
+16:29:37  INFO     [cache] hit  | ns=insight key=https://arstechnica.com/science/2026/04/to-teach-in-the-time
+16:29:44  INFO     [insight] Claude 成功 (attempt 1) | title=closing_note
+16:29:44  INFO     [closing] Claude 生成今日结论成功
+16:29:44  INFO     [pipeline] RUN SUMMARY:
+16:29:44  INFO       date         : 2026-04-13
+16:29:44  INFO       deep_dive    : 5
+16:29:44  INFO       brief        : 6
+16:29:44  INFO       total_articles: 11
+16:29:44  INFO       market_pulse : 今天资本的信号比较清晰：AI 赛道的押注节奏仍在提速，而且方向在向应用层集中。这一轮融资浪潮的结构变化在于：钱不再只进模...
+16:51:41  INFO     ==================================================
+16:51:41  INFO     [ingestion] start — 2026-04-13 16:51:41
+16:51:41  INFO     [fetch] TechCrunch ...
+16:51:41  INFO     [fetch] TechCrunch: OK — 15 entries
+16:51:41  INFO     [fetch] The Verge ...
+16:51:41  INFO     [fetch] The Verge: OK — 10 entries
+16:51:41  INFO     [fetch] VentureBeat AI ...
+16:51:41  INFO     [fetch] VentureBeat AI: OK — 7 entries
+16:51:41  INFO     [fetch] Ars Technica ...
+16:51:41  INFO     [fetch] Ars Technica: OK — 15 entries
+16:51:41  INFO     [fetch] MIT Tech Review ...
+16:51:42  INFO     [fetch] MIT Tech Review: OK — 10 entries
+16:51:42  INFO     [fetch] Wired ...
+16:51:42  INFO     [fetch] Wired: OK — 10 entries
+16:51:42  INFO     [fetch] AI News ...
+16:51:43  INFO     [fetch] AI News: OK — 10 entries
+16:51:43  INFO     [fetch] ZDNet AI ...
+16:51:43  INFO     [fetch] ZDNet AI: OK — 10 entries
+16:51:43  INFO     [raw] saved 84 articles → data/raw/2026-04-13_articles.json
+16:51:43  INFO     --------------------------------------------------
+16:51:43  INFO     [ingestion] SOURCE HEALTH:
+16:51:43  INFO       ✓  TechCrunch            15 articles  [OK]
+16:51:43  INFO       ✓  The Verge             10 articles  [OK]
+16:51:43  INFO       ✓  VentureBeat AI         7 articles  [OK]
+16:51:43  INFO       ✓  Ars Technica          15 articles  [OK]
+16:51:43  INFO       ✓  MIT Tech Review       10 articles  [OK]
+16:51:43  INFO       ✓  Wired                 10 articles  [OK]
+16:51:43  INFO       ✓  AI News               10 articles  [OK]
+16:51:43  INFO       ✓  ZDNet AI              10 articles  [OK]
+16:51:43  INFO     --------------------------------------------------
+16:51:43  INFO     [ingestion] sources  : 8 ok / 0 failed
+16:51:43  INFO     [ingestion] raw total: 87
+16:51:43  INFO     [ingestion] deduped  : 84
+16:51:43  INFO     [ingestion] elapsed  : 2.6s
+16:51:43  INFO     ==================================================
+16:55:39  WARNING  [freshness] deep_dive→brief (age=2366h): The creator of Claude Code just revealed his workflow, 
+16:55:39  WARNING  [freshness] brief 丢弃 (age=2366h): The creator of Claude Code just revealed his workflow, 
+16:55:39  WARNING  [freshness] deep_dive→brief (age=2024h): Claude Code costs up to $200 a month. Goose does the sa
+16:55:39  WARNING  [freshness] brief 丢弃 (age=2024h): Claude Code costs up to $200 a month. Goose does the sa
+16:55:39  WARNING  [freshness] deep_dive→brief (age=106h): Anthropic keeps new AI model private after it finds tho
+16:55:39  WARNING  [freshness] brief 丢弃 (age=106h): Anthropic keeps new AI model private after it finds tho
+16:55:39  WARNING  [freshness] deep_dive→brief (age=132h): Microsoft open-source toolkit secures AI agents at runt
+16:55:39  WARNING  [freshness] brief 丢弃 (age=132h): Microsoft open-source toolkit secures AI agents at runt
+16:55:39  WARNING  [freshness] deep_dive→brief (age=1952h): Railway secures $100 million to challenge AWS with AI-n
+16:55:39  WARNING  [freshness] brief 丢弃 (age=1952h): Railway secures $100 million to challenge AWS with AI-n
+16:55:39  WARNING  [freshness] deep_dive→brief (age=151h): Asylon and Thrive Logic bring physical AI to enterprise
+16:55:39  WARNING  [freshness] brief 丢弃 (age=151h): Asylon and Thrive Logic bring physical AI to enterprise
+16:55:39  WARNING  [freshness] deep_dive→brief (age=72h): Californians sue over AI tool that records doctor visit
+16:55:39  WARNING  [freshness] brief 丢弃 (age=72h): Californians sue over AI tool that records doctor visit
+16:55:39  WARNING  [freshness] deep_dive→brief (age=86h): Meta has a competitive AI model but loses its open-sour
+16:55:39  WARNING  [freshness] brief 丢弃 (age=86h): Meta has a competitive AI model but loses its open-sour
+16:55:39  WARNING  [freshness] deep_dive→brief (age=103h): Agentic AI’s governance challenges under the EU AI Act 
+16:55:39  WARNING  [freshness] brief 丢弃 (age=103h): Agentic AI’s governance challenges under the EU AI Act 
+16:55:39  WARNING  [freshness] deep_dive→brief (age=84h): Why companies like Apple are building AI agents with li
+16:55:39  WARNING  [freshness] brief 丢弃 (age=84h): Why companies like Apple are building AI agents with li
+16:55:39  WARNING  [freshness] deep_dive→brief (age=131h): AI’s software development success and central managemen
+16:55:39  WARNING  [freshness] brief 丢弃 (age=131h): AI’s software development success and central managemen
+16:55:39  WARNING  [freshness] deep_dive→brief (age=80h): IBM: How robust AI governance protects enterprise margi
+16:55:39  WARNING  [freshness] brief 丢弃 (age=80h): IBM: How robust AI governance protects enterprise margi
+16:55:39  WARNING  [freshness] brief 丢弃 (age=80h): What’s in a name? Moderna’s “vaccine” vs. “therapy” dil
+16:55:39  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/tech/911080/microsoft-ai-openclaw-3
+16:55:39  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/ai-artificial-intelligence/911118/o
+16:55:39  INFO     [cache] hit  | ns=summary key=https://www.wired.com/story/meta-ray-ban-oakley-smart-glasse
+16:55:39  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/science/2026/04/to-teach-in-the-time
+16:55:39  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/12/trump-officials-may-be-enc
+16:55:39  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-
+16:55:39  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/booking-com-confirms-hacke
+16:55:39  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over
+16:55:39  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/tech/911322/microsoft-surface-price
+16:55:39  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/cars/2026/04/slate-auto-raises-650-m
+16:55:39  INFO     [cache] miss | ns=summary key=https://www.zdnet.com/article/uag-metropolis-wallet-tracker-
+16:55:45  INFO     [cache] hit  | ns=insight key=https://www.theverge.com/tech/911080/microsoft-ai-openclaw-3
+16:55:45  INFO     [cache] hit  | ns=insight key=https://www.theverge.com/ai-artificial-intelligence/911118/o
+16:55:45  INFO     [cache] hit  | ns=insight key=https://www.wired.com/story/meta-ray-ban-oakley-smart-glasse
+16:55:45  INFO     [cache] hit  | ns=insight key=https://arstechnica.com/science/2026/04/to-teach-in-the-time
+16:55:45  INFO     [cache] hit  | ns=insight key=https://techcrunch.com/2026/04/12/trump-officials-may-be-enc
+16:55:52  INFO     [insight] Claude 成功 (attempt 1) | title=closing_note
+16:55:52  INFO     [closing] Claude 生成今日结论成功
+16:55:52  INFO     [pipeline] RUN SUMMARY:
+16:55:52  INFO       date         : 2026-04-13
+16:55:52  INFO       deep_dive    : 5
+16:55:52  INFO       brief        : 6
+16:55:52  INFO       total_articles: 11
+16:55:52  INFO       market_pulse : 今天资本的信号比较清晰：AI 赛道的押注节奏仍在提速，而且方向在向应用层集中。这一轮融资浪潮的结构变化在于：钱不再只进模...
+21:38:08  WARNING  [freshness] deep_dive→brief (age=2371h): The creator of Claude Code just revealed his workflow, 
+21:38:08  WARNING  [freshness] brief 丢弃 (age=2371h): The creator of Claude Code just revealed his workflow, 
+21:38:08  WARNING  [freshness] deep_dive→brief (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+21:38:08  WARNING  [freshness] brief 丢弃 (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+21:38:08  WARNING  [freshness] deep_dive→brief (age=157h): Enabling agent-first process redesign
+21:38:08  WARNING  [freshness] brief 丢弃 (age=157h): Enabling agent-first process redesign
+21:38:08  WARNING  [freshness] deep_dive→brief (age=111h): Anthropic keeps new AI model private after it finds tho
+21:38:08  WARNING  [freshness] brief 丢弃 (age=111h): Anthropic keeps new AI model private after it finds tho
+21:38:08  WARNING  [freshness] deep_dive→brief (age=136h): Microsoft open-source toolkit secures AI agents at runt
+21:38:08  WARNING  [freshness] brief 丢弃 (age=136h): Microsoft open-source toolkit secures AI agents at runt
+21:38:08  WARNING  [freshness] deep_dive→brief (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+21:38:08  WARNING  [freshness] brief 丢弃 (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+21:38:08  WARNING  [freshness] deep_dive→brief (age=82h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+21:38:08  WARNING  [freshness] brief 丢弃 (age=82h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+21:38:08  WARNING  [freshness] deep_dive→brief (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+21:38:08  WARNING  [freshness] brief 丢弃 (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+21:38:08  WARNING  [freshness] deep_dive→brief (age=77h): Californians sue over AI tool that records doctor visit
+21:38:08  WARNING  [freshness] brief 丢弃 (age=77h): Californians sue over AI tool that records doctor visit
+21:38:08  WARNING  [freshness] deep_dive→brief (age=82h): What leaked "SteamGPT" files could mean for the PC gami
+21:38:08  WARNING  [freshness] brief 丢弃 (age=82h): What leaked "SteamGPT" files could mean for the PC gami
+21:38:08  WARNING  [freshness] deep_dive→brief (age=133h): Mustafa Suleyman: AI development won’t hit a wall anyti
+21:38:08  WARNING  [freshness] brief 丢弃 (age=133h): Mustafa Suleyman: AI development won’t hit a wall anyti
+21:38:08  WARNING  [freshness] deep_dive→brief (age=89h): Why companies like Apple are building AI agents with li
+21:38:08  WARNING  [freshness] brief 丢弃 (age=89h): Why companies like Apple are building AI agents with li
+21:38:08  WARNING  [freshness] deep_dive→brief (age=91h): Meta has a competitive AI model but loses its open-sour
+21:38:08  WARNING  [freshness] brief 丢弃 (age=91h): Meta has a competitive AI model but loses its open-sour
+21:38:08  WARNING  [freshness] deep_dive→brief (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+21:38:08  WARNING  [freshness] brief 丢弃 (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+21:38:08  WARNING  [freshness] deep_dive→brief (age=136h): AI’s software development success and central managemen
+21:38:08  WARNING  [freshness] brief 丢弃 (age=136h): AI’s software development success and central managemen
+21:38:08  WARNING  [freshness] deep_dive→brief (age=159h): Boomi calls it “data activation” and says it’s the miss
+21:38:08  WARNING  [freshness] brief 丢弃 (age=159h): Boomi calls it “data activation” and says it’s the miss
+21:38:08  WARNING  [freshness] deep_dive→brief (age=78h): Anthropic temporarily banned OpenClaw’s creator from ac
+21:38:08  WARNING  [freshness] brief 丢弃 (age=78h): Anthropic temporarily banned OpenClaw’s creator from ac
+21:38:08  WARNING  [freshness] deep_dive→brief (age=101h): ChatGPT finally offers $100/month Pro plan
+21:38:08  WARNING  [freshness] brief 丢弃 (age=101h): ChatGPT finally offers $100/month Pro plan
+21:38:08  WARNING  [freshness] deep_dive→brief (age=85h): IBM: How robust AI governance protects enterprise margi
+21:38:08  WARNING  [freshness] brief 丢弃 (age=85h): IBM: How robust AI governance protects enterprise margi
+21:38:08  WARNING  [freshness] brief 丢弃 (age=82h): TechCrunch is heading to Tokyo — and bringing the Start
+21:38:08  INFO     [freshness] brief 超48h保留 (age=64h): Is the ‘Holy Grail of batteries’ finally ready to bless
+21:38:08  INFO     [freshness] brief 超48h保留 (age=65h): How the Internet Broke Everyone’s Bullshit Detectors
+21:38:08  WARNING  [freshness] brief 丢弃 (age=100h): Florida AG to probe OpenAI, alleging possible connectio
+21:38:08  INFO     [freshness] brief 超48h保留 (age=66h): The best AR and MR glasses in 2026: Expert tested and r
+21:38:08  INFO     [freshness] brief 超48h保留 (age=63h): AI models are terrible at betting on soccer—especially 
+21:38:08  WARNING  [freshness] brief 丢弃 (age=85h): Every fusion startup that has raised over $100M
+21:38:08  WARNING  [freshness] brief 丢弃 (age=81h): YouTube increases Premium price again, says 90-second u
+21:38:08  WARNING  [freshness] brief 丢弃 (age=78h): 20-year-old man arrested for allegedly throwing a Molot
+21:38:08  WARNING  [freshness] brief 丢弃 (age=87h): Snap gets closer to releasing new AI glasses after year
+21:38:08  WARNING  [freshness] brief 丢弃 (age=81h): Microsoft's "commitment to Windows quality" starts with
+21:38:08  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+21:38:20  INFO     [cache] miss | ns=summary key=https://www.theverge.com/transportation/909480/solid-state-b
+21:38:26  INFO     [cache] miss | ns=summary key=https://www.wired.com/story/how-the-internet-broke-everyones
+21:38:34  INFO     [cache] miss | ns=summary key=https://www.zdnet.com/article/best-ar-and-mr-glasses/|brief
+21:38:41  INFO     [cache] miss | ns=summary key=https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at
+21:38:51  INFO     [cache] miss | ns=insight key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+21:38:55  INFO     [insight] Claude 成功 (attempt 1) | title=SiFive 完成 36.5 亿美元融资，RISC-V AI 芯片获市场认可
+21:39:00  INFO     [insight] Claude 成功 (attempt 1) | title=closing_note
+21:39:00  INFO     [closing] Claude 生成今日结论成功
+21:39:00  INFO     [pipeline] RUN SUMMARY:
+21:39:00  INFO       date         : 2026-04-13
+21:39:00  INFO       deep_dive    : 1
+21:39:00  INFO       brief        : 4
+21:39:00  INFO       total_articles: 5
+21:39:00  INFO       market_pulse : 今天的核心信号来自算力基础设施层，供应链与算力入口的争夺正在进入新的激烈阶段。算力竞争的决胜点已不只是硬件产能——谁能把...
+21:44:03  WARNING  [freshness] deep_dive→brief (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+21:44:03  WARNING  [freshness] brief 丢弃 (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+21:44:03  WARNING  [freshness] deep_dive→brief (age=2371h): The creator of Claude Code just revealed his workflow, 
+21:44:03  WARNING  [freshness] brief 丢弃 (age=2371h): The creator of Claude Code just revealed his workflow, 
+21:44:03  WARNING  [freshness] deep_dive→brief (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+21:44:03  WARNING  [freshness] brief 丢弃 (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+21:44:03  WARNING  [freshness] deep_dive→brief (age=157h): Enabling agent-first process redesign
+21:44:03  WARNING  [freshness] brief 丢弃 (age=157h): Enabling agent-first process redesign
+21:44:03  WARNING  [freshness] deep_dive→brief (age=111h): Anthropic keeps new AI model private after it finds tho
+21:44:03  WARNING  [freshness] brief 丢弃 (age=111h): Anthropic keeps new AI model private after it finds tho
+21:44:03  WARNING  [freshness] deep_dive→brief (age=136h): Microsoft open-source toolkit secures AI agents at runt
+21:44:03  WARNING  [freshness] brief 丢弃 (age=136h): Microsoft open-source toolkit secures AI agents at runt
+21:44:03  WARNING  [freshness] deep_dive→brief (age=82h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+21:44:03  WARNING  [freshness] brief 丢弃 (age=82h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+21:44:03  WARNING  [freshness] deep_dive→brief (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+21:44:03  WARNING  [freshness] brief 丢弃 (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+21:44:03  WARNING  [freshness] deep_dive→brief (age=82h): TechCrunch is heading to Tokyo — and bringing the Start
+21:44:03  WARNING  [freshness] brief 丢弃 (age=82h): TechCrunch is heading to Tokyo — and bringing the Start
+21:44:03  WARNING  [freshness] deep_dive→brief (age=101h): ChatGPT finally offers $100/month Pro plan
+21:44:03  WARNING  [freshness] brief 丢弃 (age=101h): ChatGPT finally offers $100/month Pro plan
+21:44:03  WARNING  [freshness] deep_dive→brief (age=77h): Californians sue over AI tool that records doctor visit
+21:44:03  WARNING  [freshness] brief 丢弃 (age=77h): Californians sue over AI tool that records doctor visit
+21:44:03  WARNING  [freshness] deep_dive→brief (age=82h): What leaked "SteamGPT" files could mean for the PC gami
+21:44:03  WARNING  [freshness] brief 丢弃 (age=82h): What leaked "SteamGPT" files could mean for the PC gami
+21:44:03  WARNING  [freshness] deep_dive→brief (age=133h): Mustafa Suleyman: AI development won’t hit a wall anyti
+21:44:03  WARNING  [freshness] brief 丢弃 (age=133h): Mustafa Suleyman: AI development won’t hit a wall anyti
+21:44:03  WARNING  [freshness] deep_dive→brief (age=91h): Meta has a competitive AI model but loses its open-sour
+21:44:03  WARNING  [freshness] brief 丢弃 (age=91h): Meta has a competitive AI model but loses its open-sour
+21:44:03  WARNING  [freshness] deep_dive→brief (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+21:44:03  WARNING  [freshness] brief 丢弃 (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+21:44:03  WARNING  [freshness] deep_dive→brief (age=159h): Boomi calls it “data activation” and says it’s the miss
+21:44:03  WARNING  [freshness] brief 丢弃 (age=159h): Boomi calls it “data activation” and says it’s the miss
+21:44:03  WARNING  [freshness] deep_dive→brief (age=78h): Anthropic temporarily banned OpenClaw’s creator from ac
+21:44:03  WARNING  [freshness] brief 丢弃 (age=78h): Anthropic temporarily banned OpenClaw’s creator from ac
+21:44:03  WARNING  [freshness] deep_dive→brief (age=136h): AI’s software development success and central managemen
+21:44:03  WARNING  [freshness] brief 丢弃 (age=136h): AI’s software development success and central managemen
+21:44:03  WARNING  [freshness] deep_dive→brief (age=85h): IBM: How robust AI governance protects enterprise margi
+21:44:03  WARNING  [freshness] brief 丢弃 (age=85h): IBM: How robust AI governance protects enterprise margi
+21:44:03  WARNING  [freshness] deep_dive→brief (age=89h): Why companies like Apple are building AI agents with li
+21:44:03  WARNING  [freshness] brief 丢弃 (age=89h): Why companies like Apple are building AI agents with li
+21:44:03  INFO     [freshness] brief 超48h保留 (age=64h): Is the ‘Holy Grail of batteries’ finally ready to bless
+21:44:03  INFO     [freshness] brief 超48h保留 (age=65h): How the Internet Broke Everyone’s Bullshit Detectors
+21:44:03  INFO     [freshness] brief 超48h保留 (age=66h): The best AR and MR glasses in 2026: Expert tested and r
+21:44:03  WARNING  [freshness] brief 丢弃 (age=101h): Florida AG to probe OpenAI, alleging possible connectio
+21:44:03  WARNING  [freshness] brief 丢弃 (age=87h): Snap gets closer to releasing new AI glasses after year
+21:44:03  WARNING  [freshness] brief 丢弃 (age=135h): The Download: water threats in Iran and AI’s impact on 
+21:44:03  WARNING  [freshness] brief 丢弃 (age=85h): Every fusion startup that has raised over $100M
+21:44:03  INFO     [freshness] brief 超48h保留 (age=63h): AI models are terrible at betting on soccer—especially 
+21:44:03  WARNING  [freshness] brief 丢弃 (age=81h): Microsoft's "commitment to Windows quality" starts with
+21:44:03  WARNING  [freshness] brief 丢弃 (age=82h): YouTube increases Premium price again, says 90-second u
+21:44:03  WARNING  [freshness] brief 丢弃 (age=85h): Pro-Iran Explosive Media trolls Trump with AI-generated
+21:44:03  WARNING  [freshness] brief 丢弃 (age=87h): The Download: an exclusive Jeff VanderMeer story and AI
+21:44:03  WARNING  [freshness] brief 丢弃 (age=85h): PSA: If you use the Meta AI app, your friends will find
+21:44:03  WARNING  [freshness] brief 丢弃 (age=81h): Forget Shokz: I tried the Suunto Spark earbuds for a mo
+21:44:03  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+21:44:03  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/transportation/909480/solid-state-b
+21:44:03  INFO     [cache] hit  | ns=summary key=https://www.wired.com/story/how-the-internet-broke-everyones
+21:44:03  INFO     [cache] hit  | ns=summary key=https://www.zdnet.com/article/best-ar-and-mr-glasses/|brief
+21:44:03  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at
+21:44:03  INFO     [cache] miss | ns=insight key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+21:44:06  INFO     [insight] Claude 成功 (attempt 1) | title=SiFive 完成 36.5 亿美元融资，RISC-V AI 芯片获市场认可
+21:44:12  INFO     [insight] Claude 成功 (attempt 1) | title=closing_note
+21:44:12  INFO     [closing] Claude 生成今日结论成功
+21:44:12  INFO     [pipeline] RUN SUMMARY:
+21:44:12  INFO       date         : 2026-04-13
+21:44:12  INFO       deep_dive    : 1
+21:44:12  INFO       brief        : 4
+21:44:12  INFO       total_articles: 5
+21:44:12  INFO       market_pulse : 今天的核心信号来自算力基础设施层，供应链与算力入口的争夺正在进入新的激烈阶段。算力竞争的决胜点已不只是硬件产能——谁能把...
+21:48:08  WARNING  [freshness] deep_dive→brief (age=2371h): The creator of Claude Code just revealed his workflow, 
+21:48:08  WARNING  [freshness] brief 丢弃 (age=2371h): The creator of Claude Code just revealed his workflow, 
+21:48:08  WARNING  [freshness] deep_dive→brief (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+21:48:08  WARNING  [freshness] brief 丢弃 (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+21:48:08  WARNING  [freshness] deep_dive→brief (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+21:48:08  WARNING  [freshness] brief 丢弃 (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+21:48:08  WARNING  [freshness] deep_dive→brief (age=157h): Enabling agent-first process redesign
+21:48:08  WARNING  [freshness] brief 丢弃 (age=157h): Enabling agent-first process redesign
+21:48:08  WARNING  [freshness] deep_dive→brief (age=91h): Meta has a competitive AI model but loses its open-sour
+21:48:08  WARNING  [freshness] brief 丢弃 (age=91h): Meta has a competitive AI model but loses its open-sour
+21:48:08  WARNING  [freshness] deep_dive→brief (age=111h): Anthropic keeps new AI model private after it finds tho
+21:48:08  WARNING  [freshness] brief 丢弃 (age=111h): Anthropic keeps new AI model private after it finds tho
+21:48:08  WARNING  [freshness] deep_dive→brief (age=136h): Microsoft open-source toolkit secures AI agents at runt
+21:48:08  WARNING  [freshness] brief 丢弃 (age=136h): Microsoft open-source toolkit secures AI agents at runt
+21:48:08  WARNING  [freshness] deep_dive→brief (age=82h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+21:48:08  WARNING  [freshness] brief 丢弃 (age=82h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+21:48:08  WARNING  [freshness] deep_dive→brief (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+21:48:08  WARNING  [freshness] brief 丢弃 (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+21:48:08  WARNING  [freshness] deep_dive→brief (age=82h): TechCrunch is heading to Tokyo — and bringing the Start
+21:48:08  WARNING  [freshness] brief 丢弃 (age=82h): TechCrunch is heading to Tokyo — and bringing the Start
+21:48:08  WARNING  [freshness] deep_dive→brief (age=77h): Californians sue over AI tool that records doctor visit
+21:48:08  WARNING  [freshness] brief 丢弃 (age=77h): Californians sue over AI tool that records doctor visit
+21:48:08  WARNING  [freshness] deep_dive→brief (age=133h): Mustafa Suleyman: AI development won’t hit a wall anyti
+21:48:08  WARNING  [freshness] brief 丢弃 (age=133h): Mustafa Suleyman: AI development won’t hit a wall anyti
+21:48:08  WARNING  [freshness] deep_dive→brief (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+21:48:08  WARNING  [freshness] brief 丢弃 (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+21:48:08  WARNING  [freshness] deep_dive→brief (age=136h): AI’s software development success and central managemen
+21:48:08  WARNING  [freshness] brief 丢弃 (age=136h): AI’s software development success and central managemen
+21:48:08  WARNING  [freshness] deep_dive→brief (age=159h): Boomi calls it “data activation” and says it’s the miss
+21:48:08  WARNING  [freshness] brief 丢弃 (age=159h): Boomi calls it “data activation” and says it’s the miss
+21:48:08  WARNING  [freshness] deep_dive→brief (age=78h): Anthropic temporarily banned OpenClaw’s creator from ac
+21:48:08  WARNING  [freshness] brief 丢弃 (age=78h): Anthropic temporarily banned OpenClaw’s creator from ac
+21:48:08  WARNING  [freshness] deep_dive→brief (age=101h): ChatGPT finally offers $100/month Pro plan
+21:48:08  WARNING  [freshness] brief 丢弃 (age=101h): ChatGPT finally offers $100/month Pro plan
+21:48:08  WARNING  [freshness] deep_dive→brief (age=85h): IBM: How robust AI governance protects enterprise margi
+21:48:08  WARNING  [freshness] brief 丢弃 (age=85h): IBM: How robust AI governance protects enterprise margi
+21:48:08  WARNING  [freshness] deep_dive→brief (age=89h): Why companies like Apple are building AI agents with li
+21:48:08  WARNING  [freshness] brief 丢弃 (age=89h): Why companies like Apple are building AI agents with li
+21:48:08  WARNING  [freshness] deep_dive→brief (age=82h): What leaked "SteamGPT" files could mean for the PC gami
+21:48:08  WARNING  [freshness] brief 丢弃 (age=82h): What leaked "SteamGPT" files could mean for the PC gami
+21:48:08  INFO     [freshness] brief 超48h保留 (age=64h): Is the ‘Holy Grail of batteries’ finally ready to bless
+21:48:08  INFO     [freshness] brief 超48h保留 (age=65h): How the Internet Broke Everyone’s Bullshit Detectors
+21:48:08  WARNING  [freshness] brief 丢弃 (age=101h): Florida AG to probe OpenAI, alleging possible connectio
+21:48:08  INFO     [freshness] brief 超48h保留 (age=66h): The best AR and MR glasses in 2026: Expert tested and r
+21:48:08  WARNING  [freshness] brief 丢弃 (age=87h): Snap gets closer to releasing new AI glasses after year
+21:48:08  WARNING  [freshness] brief 丢弃 (age=135h): The Download: water threats in Iran and AI’s impact on 
+21:48:08  WARNING  [freshness] brief 丢弃 (age=85h): Every fusion startup that has raised over $100M
+21:48:08  INFO     [freshness] brief 超48h保留 (age=64h): AI models are terrible at betting on soccer—especially 
+21:48:08  WARNING  [freshness] brief 丢弃 (age=82h): YouTube increases Premium price again, says 90-second u
+21:48:08  WARNING  [freshness] brief 丢弃 (age=85h): Pro-Iran Explosive Media trolls Trump with AI-generated
+21:48:08  WARNING  [freshness] brief 丢弃 (age=81h): Forget Shokz: I tried the Suunto Spark earbuds for a mo
+21:48:08  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+21:48:08  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/transportation/909480/solid-state-b
+21:48:08  INFO     [cache] hit  | ns=summary key=https://www.wired.com/story/how-the-internet-broke-everyones
+21:48:08  INFO     [cache] hit  | ns=summary key=https://www.zdnet.com/article/best-ar-and-mr-glasses/|brief
+21:48:08  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at
+21:48:08  INFO     [cache] hit  | ns=insight key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+21:48:13  INFO     [insight] Claude 成功 (attempt 1) | title=closing_note
+21:48:13  INFO     [closing] Claude 生成今日结论成功
+21:48:13  INFO     [pipeline] RUN SUMMARY:
+21:48:13  INFO       date         : 2026-04-13
+21:48:13  INFO       deep_dive    : 1
+21:48:13  INFO       brief        : 4
+21:48:13  INFO       total_articles: 5
+21:48:13  INFO       market_pulse : 今天的核心信号来自算力基础设施层，供应链与算力入口的争夺正在进入新的激烈阶段。算力竞争的决胜点已不只是硬件产能——谁能把...
+21:52:06  WARNING  [freshness] deep_dive→brief (age=2371h): The creator of Claude Code just revealed his workflow, 
+21:52:06  WARNING  [freshness] brief 丢弃 (age=2371h): The creator of Claude Code just revealed his workflow, 
+21:52:06  WARNING  [freshness] deep_dive→brief (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+21:52:06  WARNING  [freshness] brief 丢弃 (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+21:52:06  WARNING  [freshness] deep_dive→brief (age=157h): Enabling agent-first process redesign
+21:52:06  WARNING  [freshness] brief 丢弃 (age=157h): Enabling agent-first process redesign
+21:52:06  WARNING  [freshness] deep_dive→brief (age=111h): Anthropic keeps new AI model private after it finds tho
+21:52:06  WARNING  [freshness] brief 丢弃 (age=111h): Anthropic keeps new AI model private after it finds tho
+21:52:06  WARNING  [freshness] deep_dive→brief (age=136h): Microsoft open-source toolkit secures AI agents at runt
+21:52:06  WARNING  [freshness] brief 丢弃 (age=136h): Microsoft open-source toolkit secures AI agents at runt
+21:52:06  WARNING  [freshness] deep_dive→brief (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+21:52:06  WARNING  [freshness] brief 丢弃 (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+21:52:06  WARNING  [freshness] deep_dive→brief (age=82h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+21:52:06  WARNING  [freshness] brief 丢弃 (age=82h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+21:52:06  WARNING  [freshness] deep_dive→brief (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+21:52:06  WARNING  [freshness] brief 丢弃 (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+21:52:06  WARNING  [freshness] deep_dive→brief (age=82h): TechCrunch is heading to Tokyo — and bringing the Start
+21:52:06  WARNING  [freshness] brief 丢弃 (age=82h): TechCrunch is heading to Tokyo — and bringing the Start
+21:52:06  WARNING  [freshness] deep_dive→brief (age=101h): ChatGPT finally offers $100/month Pro plan
+21:52:06  WARNING  [freshness] brief 丢弃 (age=101h): ChatGPT finally offers $100/month Pro plan
+21:52:06  WARNING  [freshness] deep_dive→brief (age=77h): Californians sue over AI tool that records doctor visit
+21:52:06  WARNING  [freshness] brief 丢弃 (age=77h): Californians sue over AI tool that records doctor visit
+21:52:06  WARNING  [freshness] deep_dive→brief (age=82h): What leaked "SteamGPT" files could mean for the PC gami
+21:52:06  WARNING  [freshness] brief 丢弃 (age=82h): What leaked "SteamGPT" files could mean for the PC gami
+21:52:06  WARNING  [freshness] deep_dive→brief (age=133h): Mustafa Suleyman: AI development won’t hit a wall anyti
+21:52:06  WARNING  [freshness] brief 丢弃 (age=133h): Mustafa Suleyman: AI development won’t hit a wall anyti
+21:52:06  WARNING  [freshness] deep_dive→brief (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+21:52:06  WARNING  [freshness] brief 丢弃 (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+21:52:06  WARNING  [freshness] deep_dive→brief (age=159h): Boomi calls it “data activation” and says it’s the miss
+21:52:06  WARNING  [freshness] brief 丢弃 (age=159h): Boomi calls it “data activation” and says it’s the miss
+21:52:06  WARNING  [freshness] deep_dive→brief (age=91h): Meta has a competitive AI model but loses its open-sour
+21:52:06  WARNING  [freshness] brief 丢弃 (age=91h): Meta has a competitive AI model but loses its open-sour
+21:52:06  WARNING  [freshness] deep_dive→brief (age=78h): Anthropic temporarily banned OpenClaw’s creator from ac
+21:52:06  WARNING  [freshness] brief 丢弃 (age=78h): Anthropic temporarily banned OpenClaw’s creator from ac
+21:52:06  WARNING  [freshness] deep_dive→brief (age=85h): IBM: How robust AI governance protects enterprise margi
+21:52:06  WARNING  [freshness] brief 丢弃 (age=85h): IBM: How robust AI governance protects enterprise margi
+21:52:06  WARNING  [freshness] deep_dive→brief (age=89h): Why companies like Apple are building AI agents with li
+21:52:06  WARNING  [freshness] brief 丢弃 (age=89h): Why companies like Apple are building AI agents with li
+21:52:06  WARNING  [freshness] deep_dive→brief (age=136h): AI’s software development success and central managemen
+21:52:06  WARNING  [freshness] brief 丢弃 (age=136h): AI’s software development success and central managemen
+21:52:06  INFO     [freshness] brief 超48h保留 (age=64h): Is the ‘Holy Grail of batteries’ finally ready to bless
+21:52:06  INFO     [freshness] brief 超48h保留 (age=66h): The best AR and MR glasses in 2026: Expert tested and r
+21:52:06  WARNING  [freshness] brief 丢弃 (age=156h): Desalination plants in the Middle East are increasingly
+21:52:06  INFO     [freshness] brief 超48h保留 (age=64h): AI models are terrible at betting on soccer—especially 
+21:52:06  WARNING  [freshness] brief 丢弃 (age=82h): YouTube increases Premium price again, says 90-second u
+21:52:06  WARNING  [freshness] brief 丢弃 (age=86h): Pro-Iran Explosive Media trolls Trump with AI-generated
+21:52:06  WARNING  [freshness] brief 丢弃 (age=87h): Snap gets closer to releasing new AI glasses after year
+21:52:06  WARNING  [freshness] brief 丢弃 (age=80h): Battery recycler Ascend Elements files for bankruptcy
+21:52:06  WARNING  [freshness] brief 丢弃 (age=101h): Florida AG to probe OpenAI, alleging possible connectio
+21:52:06  WARNING  [freshness] brief 丢弃 (age=81h): Microsoft's "commitment to Windows quality" starts with
+21:52:06  INFO     [cache] miss | ns=summary key=https://www.wired.com/story/how-the-internet-broke-everyones
+21:52:17  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+21:52:17  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/transportation/909480/solid-state-b
+21:52:17  INFO     [cache] hit  | ns=summary key=https://www.zdnet.com/article/best-ar-and-mr-glasses/|brief
+21:52:17  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at
+21:52:17  INFO     [cache] miss | ns=insight key=https://www.wired.com/story/how-the-internet-broke-everyones
+21:52:19  INFO     [insight] Claude 成功 (attempt 1) | title=互联网内容真实性验证体系面临 AI 与数据限制双重挑战
+21:52:19  INFO     [cache] hit  | ns=insight key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+21:52:26  INFO     [insight] Claude 成功 (attempt 1) | title=closing_note
+21:52:26  INFO     [closing] Claude 生成今日结论成功
+21:52:26  INFO     [pipeline] RUN SUMMARY:
+21:52:26  INFO       date         : 2026-04-13
+21:52:26  INFO       deep_dive    : 2
+21:52:26  INFO       brief        : 3
+21:52:26  INFO       total_articles: 5
+21:52:26  INFO       market_pulse : 今天没有单一主线，但多个信号同时指向同一个方向：AI 商业化正在进入以客户留存为核心的新阶段，而不是以功能堆叠为主的早期...
+21:53:48  WARNING  [freshness] deep_dive→brief (age=2371h): The creator of Claude Code just revealed his workflow, 
+21:53:48  WARNING  [freshness] brief 丢弃 (age=2371h): The creator of Claude Code just revealed his workflow, 
+21:53:48  WARNING  [freshness] deep_dive→brief (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+21:53:48  WARNING  [freshness] brief 丢弃 (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+21:53:48  WARNING  [freshness] deep_dive→brief (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+21:53:48  WARNING  [freshness] brief 丢弃 (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+21:53:48  WARNING  [freshness] deep_dive→brief (age=157h): Enabling agent-first process redesign
+21:53:48  WARNING  [freshness] brief 丢弃 (age=157h): Enabling agent-first process redesign
+21:53:48  WARNING  [freshness] deep_dive→brief (age=111h): Anthropic keeps new AI model private after it finds tho
+21:53:48  WARNING  [freshness] brief 丢弃 (age=111h): Anthropic keeps new AI model private after it finds tho
+21:53:48  WARNING  [freshness] deep_dive→brief (age=136h): Microsoft open-source toolkit secures AI agents at runt
+21:53:48  WARNING  [freshness] brief 丢弃 (age=136h): Microsoft open-source toolkit secures AI agents at runt
+21:53:48  WARNING  [freshness] deep_dive→brief (age=82h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+21:53:48  WARNING  [freshness] brief 丢弃 (age=82h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+21:53:48  WARNING  [freshness] deep_dive→brief (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+21:53:48  WARNING  [freshness] brief 丢弃 (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+21:53:48  WARNING  [freshness] deep_dive→brief (age=82h): TechCrunch is heading to Tokyo — and bringing the Start
+21:53:48  WARNING  [freshness] brief 丢弃 (age=82h): TechCrunch is heading to Tokyo — and bringing the Start
+21:53:48  WARNING  [freshness] deep_dive→brief (age=101h): ChatGPT finally offers $100/month Pro plan
+21:53:48  WARNING  [freshness] brief 丢弃 (age=101h): ChatGPT finally offers $100/month Pro plan
+21:53:48  WARNING  [freshness] deep_dive→brief (age=82h): What leaked "SteamGPT" files could mean for the PC gami
+21:53:48  WARNING  [freshness] brief 丢弃 (age=82h): What leaked "SteamGPT" files could mean for the PC gami
+21:53:48  WARNING  [freshness] deep_dive→brief (age=133h): Mustafa Suleyman: AI development won’t hit a wall anyti
+21:53:48  WARNING  [freshness] brief 丢弃 (age=133h): Mustafa Suleyman: AI development won’t hit a wall anyti
+21:53:48  WARNING  [freshness] deep_dive→brief (age=91h): Meta has a competitive AI model but loses its open-sour
+21:53:48  WARNING  [freshness] brief 丢弃 (age=91h): Meta has a competitive AI model but loses its open-sour
+21:53:48  WARNING  [freshness] deep_dive→brief (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+21:53:48  WARNING  [freshness] brief 丢弃 (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+21:53:48  WARNING  [freshness] deep_dive→brief (age=136h): AI’s software development success and central managemen
+21:53:48  WARNING  [freshness] brief 丢弃 (age=136h): AI’s software development success and central managemen
+21:53:48  WARNING  [freshness] deep_dive→brief (age=159h): Boomi calls it “data activation” and says it’s the miss
+21:53:48  WARNING  [freshness] brief 丢弃 (age=159h): Boomi calls it “data activation” and says it’s the miss
+21:53:48  WARNING  [freshness] deep_dive→brief (age=89h): Why companies like Apple are building AI agents with li
+21:53:48  WARNING  [freshness] brief 丢弃 (age=89h): Why companies like Apple are building AI agents with li
+21:53:48  WARNING  [freshness] deep_dive→brief (age=85h): IBM: How robust AI governance protects enterprise margi
+21:53:48  WARNING  [freshness] brief 丢弃 (age=85h): IBM: How robust AI governance protects enterprise margi
+21:53:48  WARNING  [freshness] deep_dive→brief (age=77h): Californians sue over AI tool that records doctor visit
+21:53:48  WARNING  [freshness] brief 丢弃 (age=77h): Californians sue over AI tool that records doctor visit
+21:53:48  WARNING  [freshness] deep_dive→brief (age=78h): Anthropic temporarily banned OpenClaw’s creator from ac
+21:53:48  WARNING  [freshness] brief 丢弃 (age=78h): Anthropic temporarily banned OpenClaw’s creator from ac
+21:53:48  INFO     [freshness] brief 超48h保留 (age=65h): How the Internet Broke Everyone’s Bullshit Detectors
+21:53:48  INFO     [freshness] brief 超48h保留 (age=64h): Is the ‘Holy Grail of batteries’ finally ready to bless
+21:53:48  INFO     [freshness] brief 超48h保留 (age=66h): The best AR and MR glasses in 2026: Expert tested and r
+21:53:48  WARNING  [freshness] brief 丢弃 (age=87h): Snap gets closer to releasing new AI glasses after year
+21:53:48  WARNING  [freshness] brief 丢弃 (age=135h): The Download: water threats in Iran and AI’s impact on 
+21:53:48  WARNING  [freshness] brief 丢弃 (age=81h): Microsoft's "commitment to Windows quality" starts with
+21:53:48  INFO     [freshness] brief 超48h保留 (age=64h): AI models are terrible at betting on soccer—especially 
+21:53:48  WARNING  [freshness] brief 丢弃 (age=82h): YouTube increases Premium price again, says 90-second u
+21:53:48  WARNING  [freshness] brief 丢弃 (age=86h): Pro-Iran Explosive Media trolls Trump with AI-generated
+21:53:48  WARNING  [freshness] brief 丢弃 (age=80h): Battery recycler Ascend Elements files for bankruptcy
+21:53:48  WARNING  [freshness] brief 丢弃 (age=101h): Florida AG to probe OpenAI, alleging possible connectio
+21:53:48  WARNING  [freshness] brief 丢弃 (age=79h): 20-year-old man arrested for allegedly throwing a Molot
+21:53:48  WARNING  [freshness] brief 丢弃 (age=82h): Forget Shokz: I tried the Suunto Spark earbuds for a mo
+21:53:48  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+21:53:48  INFO     [cache] hit  | ns=summary key=https://www.wired.com/story/how-the-internet-broke-everyones
+21:53:48  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/transportation/909480/solid-state-b
+21:53:48  INFO     [cache] hit  | ns=summary key=https://www.zdnet.com/article/best-ar-and-mr-glasses/|brief
+21:53:48  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at
+21:53:48  INFO     [cache] hit  | ns=insight key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+21:53:54  INFO     [insight] Claude 成功 (attempt 1) | title=closing_note
+21:53:54  INFO     [closing] Claude 生成今日结论成功
+21:53:54  INFO     [pipeline] RUN SUMMARY:
+21:53:54  INFO       date         : 2026-04-13
+21:53:54  INFO       deep_dive    : 1
+21:53:54  INFO       brief        : 4
+21:53:54  INFO       total_articles: 5
+21:53:54  INFO       market_pulse : 今天的核心信号来自算力基础设施层，供应链与算力入口的争夺正在进入新的激烈阶段。算力竞争的决胜点已不只是硬件产能——谁能把...
+21:55:28  WARNING  [freshness] deep_dive→brief (age=2371h): The creator of Claude Code just revealed his workflow, 
+21:55:28  WARNING  [freshness] brief 丢弃 (age=2371h): The creator of Claude Code just revealed his workflow, 
+21:55:28  WARNING  [freshness] deep_dive→brief (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+21:55:28  WARNING  [freshness] brief 丢弃 (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+21:55:28  WARNING  [freshness] deep_dive→brief (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+21:55:28  WARNING  [freshness] brief 丢弃 (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+21:55:28  WARNING  [freshness] deep_dive→brief (age=157h): Enabling agent-first process redesign
+21:55:28  WARNING  [freshness] brief 丢弃 (age=157h): Enabling agent-first process redesign
+21:55:28  WARNING  [freshness] deep_dive→brief (age=111h): Anthropic keeps new AI model private after it finds tho
+21:55:28  WARNING  [freshness] brief 丢弃 (age=111h): Anthropic keeps new AI model private after it finds tho
+21:55:28  WARNING  [freshness] deep_dive→brief (age=137h): Microsoft open-source toolkit secures AI agents at runt
+21:55:28  WARNING  [freshness] brief 丢弃 (age=137h): Microsoft open-source toolkit secures AI agents at runt
+21:55:28  WARNING  [freshness] deep_dive→brief (age=82h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+21:55:28  WARNING  [freshness] brief 丢弃 (age=82h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+21:55:28  WARNING  [freshness] deep_dive→brief (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+21:55:28  WARNING  [freshness] brief 丢弃 (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+21:55:28  WARNING  [freshness] deep_dive→brief (age=82h): TechCrunch is heading to Tokyo — and bringing the Start
+21:55:28  WARNING  [freshness] brief 丢弃 (age=82h): TechCrunch is heading to Tokyo — and bringing the Start
+21:55:28  WARNING  [freshness] deep_dive→brief (age=77h): Californians sue over AI tool that records doctor visit
+21:55:28  WARNING  [freshness] brief 丢弃 (age=77h): Californians sue over AI tool that records doctor visit
+21:55:28  WARNING  [freshness] deep_dive→brief (age=82h): What leaked "SteamGPT" files could mean for the PC gami
+21:55:28  WARNING  [freshness] brief 丢弃 (age=82h): What leaked "SteamGPT" files could mean for the PC gami
+21:55:28  WARNING  [freshness] deep_dive→brief (age=133h): Mustafa Suleyman: AI development won’t hit a wall anyti
+21:55:28  WARNING  [freshness] brief 丢弃 (age=133h): Mustafa Suleyman: AI development won’t hit a wall anyti
+21:55:28  WARNING  [freshness] deep_dive→brief (age=91h): Meta has a competitive AI model but loses its open-sour
+21:55:28  WARNING  [freshness] brief 丢弃 (age=91h): Meta has a competitive AI model but loses its open-sour
+21:55:28  WARNING  [freshness] deep_dive→brief (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+21:55:28  WARNING  [freshness] brief 丢弃 (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+21:55:28  WARNING  [freshness] deep_dive→brief (age=159h): Boomi calls it “data activation” and says it’s the miss
+21:55:28  WARNING  [freshness] brief 丢弃 (age=159h): Boomi calls it “data activation” and says it’s the miss
+21:55:28  WARNING  [freshness] deep_dive→brief (age=89h): Why companies like Apple are building AI agents with li
+21:55:28  WARNING  [freshness] brief 丢弃 (age=89h): Why companies like Apple are building AI agents with li
+21:55:28  WARNING  [freshness] deep_dive→brief (age=78h): Anthropic temporarily banned OpenClaw’s creator from ac
+21:55:28  WARNING  [freshness] brief 丢弃 (age=78h): Anthropic temporarily banned OpenClaw’s creator from ac
+21:55:28  WARNING  [freshness] deep_dive→brief (age=101h): ChatGPT finally offers $100/month Pro plan
+21:55:28  WARNING  [freshness] brief 丢弃 (age=101h): ChatGPT finally offers $100/month Pro plan
+21:55:28  WARNING  [freshness] deep_dive→brief (age=85h): IBM: How robust AI governance protects enterprise margi
+21:55:28  WARNING  [freshness] brief 丢弃 (age=85h): IBM: How robust AI governance protects enterprise margi
+21:55:28  WARNING  [freshness] deep_dive→brief (age=136h): AI’s software development success and central managemen
+21:55:28  WARNING  [freshness] brief 丢弃 (age=136h): AI’s software development success and central managemen
+21:55:28  INFO     [freshness] brief 超48h保留 (age=64h): Is the ‘Holy Grail of batteries’ finally ready to bless
+21:55:28  INFO     [freshness] brief 超48h保留 (age=65h): How the Internet Broke Everyone’s Bullshit Detectors
+21:55:28  WARNING  [freshness] brief 丢弃 (age=101h): Florida AG to probe OpenAI, alleging possible connectio
+21:55:28  WARNING  [freshness] brief 丢弃 (age=87h): Snap gets closer to releasing new AI glasses after year
+21:55:28  INFO     [freshness] brief 超48h保留 (age=66h): The best AR and MR glasses in 2026: Expert tested and r
+21:55:28  WARNING  [freshness] brief 丢弃 (age=85h): Every fusion startup that has raised over $100M
+21:55:28  WARNING  [freshness] brief 丢弃 (age=79h): 20-year-old man arrested for allegedly throwing a Molot
+21:55:28  INFO     [freshness] brief 超48h保留 (age=64h): AI models are terrible at betting on soccer—especially 
+21:55:28  WARNING  [freshness] brief 丢弃 (age=82h): YouTube increases Premium price again, says 90-second u
+21:55:28  WARNING  [freshness] brief 丢弃 (age=86h): Pro-Iran Explosive Media trolls Trump with AI-generated
+21:55:28  WARNING  [freshness] brief 丢弃 (age=80h): Battery recycler Ascend Elements files for bankruptcy
+21:55:28  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+21:55:28  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/transportation/909480/solid-state-b
+21:55:28  INFO     [cache] hit  | ns=summary key=https://www.wired.com/story/how-the-internet-broke-everyones
+21:55:28  INFO     [cache] hit  | ns=summary key=https://www.zdnet.com/article/best-ar-and-mr-glasses/|brief
+21:55:28  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at
+21:55:28  INFO     [cache] hit  | ns=insight key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+21:55:35  INFO     [insight] Claude 成功 (attempt 1) | title=closing_note
+21:55:35  INFO     [closing] Claude 生成今日结论成功
+21:55:35  INFO     [pipeline] RUN SUMMARY:
+21:55:35  INFO       date         : 2026-04-13
+21:55:35  INFO       deep_dive    : 1
+21:55:35  INFO       brief        : 4
+21:55:35  INFO       total_articles: 5
+21:55:35  INFO       market_pulse : 今天的核心信号来自算力基础设施层，供应链与算力入口的争夺正在进入新的激烈阶段。算力竞争的决胜点已不只是硬件产能——谁能把...
+22:01:31  INFO     ==================================================
+22:01:31  INFO     [ingestion] start — 2026-04-13 22:01:31
+22:01:31  INFO     [fetch] TechCrunch ...
+22:01:31  INFO     [fetch] TechCrunch: OK — 15 entries
+22:01:31  INFO     [fetch] The Verge ...
+22:01:31  INFO     [fetch] The Verge: OK — 10 entries
+22:01:31  INFO     [fetch] VentureBeat AI ...
+22:01:31  INFO     [fetch] VentureBeat AI: OK — 7 entries
+22:01:31  INFO     [fetch] Ars Technica ...
+22:01:31  INFO     [fetch] Ars Technica: OK — 15 entries
+22:01:31  INFO     [fetch] MIT Tech Review ...
+22:01:31  INFO     [fetch] MIT Tech Review: OK — 10 entries
+22:01:31  INFO     [fetch] Wired ...
+22:01:31  INFO     [fetch] Wired: OK — 10 entries
+22:01:31  INFO     [fetch] AI News ...
+22:01:33  INFO     [fetch] AI News: OK — 10 entries
+22:01:33  INFO     [fetch] ZDNet AI ...
+22:01:33  INFO     [fetch] ZDNet AI: OK — 10 entries
+22:01:33  INFO     [raw] saved 85 articles → data/raw/2026-04-13_articles.json
+22:01:33  INFO     --------------------------------------------------
+22:01:33  INFO     [ingestion] SOURCE HEALTH:
+22:01:33  INFO       ✓  TechCrunch            15 articles  [OK]
+22:01:33  INFO       ✓  The Verge             10 articles  [OK]
+22:01:33  INFO       ✓  VentureBeat AI         7 articles  [OK]
+22:01:33  INFO       ✓  Ars Technica          15 articles  [OK]
+22:01:33  INFO       ✓  MIT Tech Review       10 articles  [OK]
+22:01:33  INFO       ✓  Wired                 10 articles  [OK]
+22:01:33  INFO       ✓  AI News               10 articles  [OK]
+22:01:33  INFO       ✓  ZDNet AI              10 articles  [OK]
+22:01:33  INFO     --------------------------------------------------
+22:01:33  INFO     [ingestion] sources  : 8 ok / 0 failed
+22:01:33  INFO     [ingestion] raw total: 87
+22:01:33  INFO     [ingestion] deduped  : 85
+22:01:33  INFO     [ingestion] elapsed  : 2.4s
+22:01:33  INFO     ==================================================
+22:01:52  WARNING  [freshness] deep_dive→brief (age=2371h): The creator of Claude Code just revealed his workflow, 
+22:01:52  WARNING  [freshness] brief 丢弃 (age=2371h): The creator of Claude Code just revealed his workflow, 
+22:01:52  WARNING  [freshness] deep_dive→brief (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+22:01:52  WARNING  [freshness] brief 丢弃 (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+22:01:52  WARNING  [freshness] deep_dive→brief (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+22:01:52  WARNING  [freshness] brief 丢弃 (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+22:01:52  WARNING  [freshness] deep_dive→brief (age=157h): Enabling agent-first process redesign
+22:01:52  WARNING  [freshness] brief 丢弃 (age=157h): Enabling agent-first process redesign
+22:01:52  WARNING  [freshness] deep_dive→brief (age=111h): Anthropic keeps new AI model private after it finds tho
+22:01:52  WARNING  [freshness] brief 丢弃 (age=111h): Anthropic keeps new AI model private after it finds tho
+22:01:52  WARNING  [freshness] deep_dive→brief (age=137h): Microsoft open-source toolkit secures AI agents at runt
+22:01:52  WARNING  [freshness] brief 丢弃 (age=137h): Microsoft open-source toolkit secures AI agents at runt
+22:01:52  WARNING  [freshness] deep_dive→brief (age=82h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+22:01:52  WARNING  [freshness] brief 丢弃 (age=82h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+22:01:52  WARNING  [freshness] deep_dive→brief (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+22:01:52  WARNING  [freshness] brief 丢弃 (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+22:01:52  WARNING  [freshness] deep_dive→brief (age=82h): TechCrunch is heading to Tokyo — and bringing the Start
+22:01:52  WARNING  [freshness] brief 丢弃 (age=82h): TechCrunch is heading to Tokyo — and bringing the Start
+22:01:52  WARNING  [freshness] deep_dive→brief (age=77h): Californians sue over AI tool that records doctor visit
+22:01:52  WARNING  [freshness] brief 丢弃 (age=77h): Californians sue over AI tool that records doctor visit
+22:01:52  WARNING  [freshness] deep_dive→brief (age=82h): What leaked "SteamGPT" files could mean for the PC gami
+22:01:52  WARNING  [freshness] brief 丢弃 (age=82h): What leaked "SteamGPT" files could mean for the PC gami
+22:01:52  WARNING  [freshness] deep_dive→brief (age=133h): Mustafa Suleyman: AI development won’t hit a wall anyti
+22:01:52  WARNING  [freshness] brief 丢弃 (age=133h): Mustafa Suleyman: AI development won’t hit a wall anyti
+22:01:52  WARNING  [freshness] deep_dive→brief (age=89h): Why companies like Apple are building AI agents with li
+22:01:52  WARNING  [freshness] brief 丢弃 (age=89h): Why companies like Apple are building AI agents with li
+22:01:52  WARNING  [freshness] deep_dive→brief (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+22:01:52  WARNING  [freshness] brief 丢弃 (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+22:01:52  WARNING  [freshness] deep_dive→brief (age=159h): Boomi calls it “data activation” and says it’s the miss
+22:01:52  WARNING  [freshness] brief 丢弃 (age=159h): Boomi calls it “data activation” and says it’s the miss
+22:01:52  WARNING  [freshness] deep_dive→brief (age=79h): Anthropic temporarily banned OpenClaw’s creator from ac
+22:01:52  WARNING  [freshness] brief 丢弃 (age=79h): Anthropic temporarily banned OpenClaw’s creator from ac
+22:01:52  WARNING  [freshness] deep_dive→brief (age=91h): Meta has a competitive AI model but loses its open-sour
+22:01:52  WARNING  [freshness] brief 丢弃 (age=91h): Meta has a competitive AI model but loses its open-sour
+22:01:52  WARNING  [freshness] deep_dive→brief (age=102h): ChatGPT finally offers $100/month Pro plan
+22:01:52  WARNING  [freshness] brief 丢弃 (age=102h): ChatGPT finally offers $100/month Pro plan
+22:01:52  WARNING  [freshness] deep_dive→brief (age=85h): IBM: How robust AI governance protects enterprise margi
+22:01:52  WARNING  [freshness] brief 丢弃 (age=85h): IBM: How robust AI governance protects enterprise margi
+22:01:52  WARNING  [freshness] deep_dive→brief (age=136h): AI’s software development success and central managemen
+22:01:52  WARNING  [freshness] brief 丢弃 (age=136h): AI’s software development success and central managemen
+22:01:52  INFO     [freshness] brief 超48h保留 (age=64h): Is the ‘Holy Grail of batteries’ finally ready to bless
+22:01:52  INFO     [freshness] brief 超48h保留 (age=66h): How the Internet Broke Everyone’s Bullshit Detectors
+22:01:52  INFO     [freshness] brief 超48h保留 (age=66h): The best AR and MR glasses in 2026: Expert tested and r
+22:01:52  WARNING  [freshness] brief 丢弃 (age=85h): Every fusion startup that has raised over $100M
+22:01:52  WARNING  [freshness] brief 丢弃 (age=135h): The Download: water threats in Iran and AI’s impact on 
+22:01:52  WARNING  [freshness] brief 丢弃 (age=87h): Snap gets closer to releasing new AI glasses after year
+22:01:52  WARNING  [freshness] brief 丢弃 (age=82h): YouTube increases Premium price again, says 90-second u
+22:01:52  WARNING  [freshness] brief 丢弃 (age=156h): Desalination plants in the Middle East are increasingly
+22:01:52  WARNING  [freshness] brief 丢弃 (age=82h): Forget Shokz: I tried the Suunto Spark earbuds for a mo
+22:01:52  INFO     [freshness] brief 超48h保留 (age=64h): AI models are terrible at betting on soccer—especially 
+22:01:52  WARNING  [freshness] brief 丢弃 (age=81h): Microsoft's "commitment to Windows quality" starts with
+22:01:52  WARNING  [freshness] brief 丢弃 (age=80h): Battery recycler Ascend Elements files for bankruptcy
+22:01:52  WARNING  [freshness] brief 丢弃 (age=101h): Florida AG to probe OpenAI, alleging possible connectio
+22:01:52  WARNING  [freshness] brief 丢弃 (age=86h): Pro-Iran Explosive Media trolls Trump with AI-generated
+22:01:52  WARNING  [freshness] brief 丢弃 (age=79h): 20-year-old man arrested for allegedly throwing a Molot
+22:01:52  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+22:01:52  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/transportation/909480/solid-state-b
+22:01:52  INFO     [cache] hit  | ns=summary key=https://www.wired.com/story/how-the-internet-broke-everyones
+22:01:52  INFO     [cache] hit  | ns=summary key=https://www.zdnet.com/article/best-ar-and-mr-glasses/|brief
+22:01:52  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at
+22:01:52  INFO     [cache] hit  | ns=insight key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+22:01:58  INFO     [insight] Claude 成功 (attempt 1) | title=closing_note
+22:01:58  INFO     [closing] Claude 生成今日结论成功
+22:01:58  INFO     [pipeline] RUN SUMMARY:
+22:01:58  INFO       date         : 2026-04-13
+22:01:58  INFO       deep_dive    : 1
+22:01:58  INFO       brief        : 4
+22:01:58  INFO       total_articles: 5
+22:01:58  INFO       market_pulse : 今天的核心信号来自算力基础设施层，供应链与算力入口的争夺正在进入新的激烈阶段。算力竞争的决胜点已不只是硬件产能——谁能把...
+22:03:07  WARNING  [freshness] deep_dive→brief (age=2371h): The creator of Claude Code just revealed his workflow, 
+22:03:07  WARNING  [freshness] brief 丢弃 (age=2371h): The creator of Claude Code just revealed his workflow, 
+22:03:07  WARNING  [freshness] deep_dive→brief (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+22:03:07  WARNING  [freshness] brief 丢弃 (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+22:03:07  WARNING  [freshness] deep_dive→brief (age=157h): Enabling agent-first process redesign
+22:03:07  WARNING  [freshness] brief 丢弃 (age=157h): Enabling agent-first process redesign
+22:03:07  WARNING  [freshness] deep_dive→brief (age=111h): Anthropic keeps new AI model private after it finds tho
+22:03:07  WARNING  [freshness] brief 丢弃 (age=111h): Anthropic keeps new AI model private after it finds tho
+22:03:07  WARNING  [freshness] deep_dive→brief (age=137h): Microsoft open-source toolkit secures AI agents at runt
+22:03:07  WARNING  [freshness] brief 丢弃 (age=137h): Microsoft open-source toolkit secures AI agents at runt
+22:03:07  WARNING  [freshness] deep_dive→brief (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+22:03:07  WARNING  [freshness] brief 丢弃 (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+22:03:07  WARNING  [freshness] deep_dive→brief (age=82h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+22:03:07  WARNING  [freshness] brief 丢弃 (age=82h): Stalking victim sues OpenAI, claims ChatGPT fueled her 
+22:03:07  WARNING  [freshness] deep_dive→brief (age=102h): ChatGPT finally offers $100/month Pro plan
+22:03:07  WARNING  [freshness] brief 丢弃 (age=102h): ChatGPT finally offers $100/month Pro plan
+22:03:07  WARNING  [freshness] deep_dive→brief (age=83h): What leaked "SteamGPT" files could mean for the PC gami
+22:03:07  WARNING  [freshness] brief 丢弃 (age=83h): What leaked "SteamGPT" files could mean for the PC gami
+22:03:07  WARNING  [freshness] deep_dive→brief (age=133h): Mustafa Suleyman: AI development won’t hit a wall anyti
+22:03:07  WARNING  [freshness] brief 丢弃 (age=133h): Mustafa Suleyman: AI development won’t hit a wall anyti
+22:03:07  WARNING  [freshness] deep_dive→brief (age=89h): Why companies like Apple are building AI agents with li
+22:03:07  WARNING  [freshness] brief 丢弃 (age=89h): Why companies like Apple are building AI agents with li
+22:03:07  WARNING  [freshness] deep_dive→brief (age=91h): Meta has a competitive AI model but loses its open-sour
+22:03:07  WARNING  [freshness] brief 丢弃 (age=91h): Meta has a competitive AI model but loses its open-sour
+22:03:07  WARNING  [freshness] deep_dive→brief (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+22:03:07  WARNING  [freshness] brief 丢弃 (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+22:03:07  WARNING  [freshness] deep_dive→brief (age=136h): AI’s software development success and central managemen
+22:03:07  WARNING  [freshness] brief 丢弃 (age=136h): AI’s software development success and central managemen
+22:03:07  WARNING  [freshness] deep_dive→brief (age=159h): Boomi calls it “data activation” and says it’s the miss
+22:03:07  WARNING  [freshness] brief 丢弃 (age=159h): Boomi calls it “data activation” and says it’s the miss
+22:03:07  WARNING  [freshness] deep_dive→brief (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+22:03:07  WARNING  [freshness] brief 丢弃 (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+22:03:07  WARNING  [freshness] deep_dive→brief (age=82h): TechCrunch is heading to Tokyo — and bringing the Start
+22:03:07  WARNING  [freshness] brief 丢弃 (age=82h): TechCrunch is heading to Tokyo — and bringing the Start
+22:03:07  WARNING  [freshness] deep_dive→brief (age=85h): IBM: How robust AI governance protects enterprise margi
+22:03:07  WARNING  [freshness] brief 丢弃 (age=85h): IBM: How robust AI governance protects enterprise margi
+22:03:07  WARNING  [freshness] deep_dive→brief (age=77h): Californians sue over AI tool that records doctor visit
+22:03:07  WARNING  [freshness] brief 丢弃 (age=77h): Californians sue over AI tool that records doctor visit
+22:03:07  WARNING  [freshness] deep_dive→brief (age=79h): Anthropic temporarily banned OpenClaw’s creator from ac
+22:03:07  WARNING  [freshness] brief 丢弃 (age=79h): Anthropic temporarily banned OpenClaw’s creator from ac
+22:03:07  INFO     [freshness] brief 超48h保留 (age=64h): Is the ‘Holy Grail of batteries’ finally ready to bless
+22:03:07  WARNING  [freshness] brief 丢弃 (age=87h): Snap gets closer to releasing new AI glasses after year
+22:03:07  WARNING  [freshness] brief 丢弃 (age=101h): Florida AG to probe OpenAI, alleging possible connectio
+22:03:07  INFO     [freshness] brief 超48h保留 (age=66h): The best AR and MR glasses in 2026: Expert tested and r
+22:03:07  WARNING  [freshness] brief 丢弃 (age=82h): YouTube increases Premium price again, says 90-second u
+22:03:07  WARNING  [freshness] brief 丢弃 (age=82h): Forget Shokz: I tried the Suunto Spark earbuds for a mo
+22:03:07  WARNING  [freshness] brief 丢弃 (age=156h): Desalination plants in the Middle East are increasingly
+22:03:07  WARNING  [freshness] brief 丢弃 (age=85h): Every fusion startup that has raised over $100M
+22:03:07  INFO     [freshness] brief 超48h保留 (age=64h): AI models are terrible at betting on soccer—especially 
+22:03:07  WARNING  [freshness] brief 丢弃 (age=86h): Pro-Iran Explosive Media trolls Trump with AI-generated
+22:03:07  WARNING  [freshness] brief 丢弃 (age=80h): Battery recycler Ascend Elements files for bankruptcy
+22:03:07  INFO     [cache] hit  | ns=summary key=https://www.wired.com/story/how-the-internet-broke-everyones
+22:03:07  INFO     [cache] hit  | ns=summary key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+22:03:07  INFO     [cache] hit  | ns=summary key=https://www.theverge.com/transportation/909480/solid-state-b
+22:03:07  INFO     [cache] hit  | ns=summary key=https://www.zdnet.com/article/best-ar-and-mr-glasses/|brief
+22:03:07  INFO     [cache] hit  | ns=summary key=https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at
+22:03:07  INFO     [cache] hit  | ns=insight key=https://www.wired.com/story/how-the-internet-broke-everyones
+22:03:07  INFO     [cache] hit  | ns=insight key=https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-
+22:03:13  INFO     [insight] Claude 成功 (attempt 1) | title=closing_note
+22:03:13  INFO     [closing] Claude 生成今日结论成功
+22:03:13  INFO     [pipeline] RUN SUMMARY:
+22:03:13  INFO       date         : 2026-04-13
+22:03:13  INFO       deep_dive    : 2
+22:03:13  INFO       brief        : 3
+22:03:13  INFO       total_articles: 5
+22:03:13  INFO       market_pulse : 今天没有单一主线，但多个信号同时指向同一个方向：AI 商业化正在进入以客户留存为核心的新阶段，而不是以功能堆叠为主的早期...
+22:06:11  WARNING  [freshness] deep_dive→brief (age=2371h): The creator of Claude Code just revealed his workflow, 
+22:06:11  WARNING  [freshness] brief 丢弃 (age=2371h): The creator of Claude Code just revealed his workflow, 
+22:06:11  WARNING  [freshness] deep_dive→brief (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+22:06:11  WARNING  [freshness] brief 丢弃 (age=1957h): Railway secures $100 million to challenge AWS with AI-n
+22:06:11  WARNING  [freshness] deep_dive→brief (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+22:06:11  WARNING  [freshness] brief 丢弃 (age=2029h): Claude Code costs up to $200 a month. Goose does the sa
+22:06:11  WARNING  [freshness] deep_dive→brief (age=91h): Meta has a competitive AI model but loses its open-sour
+22:06:11  WARNING  [freshness] brief 丢弃 (age=91h): Meta has a competitive AI model but loses its open-sour
+22:06:11  WARNING  [freshness] deep_dive→brief (age=111h): Anthropic keeps new AI model private after it finds tho
+22:06:11  WARNING  [freshness] brief 丢弃 (age=111h): Anthropic keeps new AI model private after it finds tho
+22:06:11  WARNING  [freshness] deep_dive→brief (age=137h): Microsoft open-source toolkit secures AI agents at runt
+22:06:11  WARNING  [freshness] brief 丢弃 (age=137h): Microsoft open-source toolkit secures AI agents at runt
+22:06:11  WARNING  [freshness] deep_dive→brief (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+22:06:11  WARNING  [freshness] brief 丢弃 (age=156h): Asylon and Thrive Logic bring physical AI to enterprise
+22:06:11  WARNING  [freshness] deep_dive→brief (age=77h): Californians sue over AI tool that records doctor visit
+22:06:11  WARNING  [freshness] brief 丢弃 (age=77h): Californians sue over AI tool that records doctor visit
+22:06:11  WARNING  [freshness] deep_dive→brief (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+22:06:11  WARNING  [freshness] brief 丢弃 (age=108h): Agentic AI’s governance challenges under the EU AI Act 
+22:06:11  WARNING  [freshness] deep_dive→brief (age=136h): AI’s software development success and central managemen
+22:06:11  WARNING  [freshness] brief 丢弃 (age=136h): AI’s software development success and central managemen
+22:06:11  WARNING  [freshness] deep_dive→brief (age=89h): Why companies like Apple are building AI agents with li
+22:06:11  WARNING  [freshness] brief 丢弃 (age=89h): Why companies like Apple are building AI agents with li
+22:06:11  WARNING  [freshness] deep_dive→brief (age=85h): IBM: How robust AI governance protects enterprise margi
+22:06:11  WARNING  [freshness] brief 丢弃 (age=85h): IBM: How robust AI governance protects enterprise margi
+22:06:11  INFO     [cache] miss | ns=summary key=https://www.technologyreview.com/2026/04/13/1135675/want-to-
+22:06:23  INFO     [cache] miss | ns=summary key=https://www.theverge.com/ai-artificial-intelligence/911118/o
+22:06:33  INFO     [cache] miss | ns=summary key=https://www.zdnet.com/article/chatgpt-plus-vs-gemini-pro/|de
+22:06:42  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/13/stanford-report-highlights
+22:06:55  INFO     [cache] miss | ns=summary key=https://www.wired.com/story/meta-ray-ban-oakley-smart-glasse
+22:07:04  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-
+22:07:11  INFO     [cache] miss | ns=summary key=https://www.theverge.com/ai-artificial-intelligence/911423/o
+22:07:20  INFO     [cache] miss | ns=summary key=https://www.wired.com/story/unitree-r1-humanoid-robot-for-sa
+22:07:26  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/13/booking-com-confirms-hacke
+22:07:32  INFO     [cache] miss | ns=summary key=https://techcrunch.com/2026/04/13/hack-at-anodot-leaves-over
+22:07:39  INFO     [cache] miss | ns=summary key=https://www.theverge.com/tech/911322/microsoft-surface-price
+22:07:44  INFO     [cache] miss | ns=summary key=https://www.technologyreview.com/2026/04/13/1135720/why-opin
+22:07:52  INFO     [cache] miss | ns=insight key=https://www.technologyreview.com/2026/04/13/1135675/want-to-
+22:07:57  INFO     [insight] Claude 成功 (attempt 1) | title=斯坦福 AI 指数报告揭示 AI 行业从技术竞赛转向商业化落地
+22:07:57  INFO     [cache] miss | ns=insight key=https://www.theverge.com/ai-artificial-intelligence/911118/o
+22:08:02  INFO     [insight] Claude 成功 (attempt 1) | title=OpenAI 内部备忘录曝光：聚焦用户锁定和企业业务扩张
+22:08:02  INFO     [cache] miss | ns=insight key=https://www.zdnet.com/article/chatgpt-plus-vs-gemini-pro/|mi
+22:08:05  INFO     [insight] Claude 成功 (attempt 1) | title=ChatGPT Plus与Gemini Pro对比：AI助手市场竞争进入场景适配
+22:08:05  INFO     [cache] miss | ns=insight key=https://techcrunch.com/2026/04/13/stanford-report-highlights
+22:08:08  INFO     [insight] Claude 成功 (attempt 1) | title=斯坦福报告：AI 专家与公众认知差距持续扩大
+22:08:08  INFO     [cache] miss | ns=insight key=https://www.wired.com/story/meta-ray-ban-oakley-smart-glasse
+22:08:11  INFO     [insight] Claude 成功 (attempt 1) | title=Meta 智能眼镜因面部识别功能引发隐私争议
+22:08:19  INFO     [insight] Claude 成功 (attempt 1) | title=closing_note
+22:08:19  INFO     [closing] Claude 生成今日结论成功
+22:08:19  INFO     [pipeline] RUN SUMMARY:
+22:08:19  INFO       date         : 2026-04-13
+22:08:19  INFO       deep_dive    : 5
+22:08:19  INFO       brief        : 7
+22:08:19  INFO       total_articles: 12
+22:08:19  INFO       market_pulse : 今天头部 AI 公司的动作在同步密集，这轮博弈已不只是产品比拼，而是市场入口和分发渠道的提前占位。头部公司正在拉开与中游...
