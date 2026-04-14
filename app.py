@@ -743,22 +743,37 @@ def render_full_report(report, is_live):
 # ── Main app ───────────────────────────────────────────────────────────
 
 def main():
-    # ── Sidebar ─────────────────────────────────────────────────────────
-    with st.sidebar:
-        st.markdown("### 设置")
-        data_source = st.selectbox(
-            "数据来源",
-            ["🌐 实时 RSS（多源拉取）", "data/rss_articles.json", "data/sample_articles.json"],
-            index=0,
-        )
-        st.markdown("---")
-        st.markdown(
-            '<span style="font-size:0.75rem;color:#4b5563">'
-            "AI 科技日报 — AI 驱动的每日情报简报<br>"
-            "Powered by MiniMax + Claude"
-            "</span>",
-            unsafe_allow_html=True,
-        )
+    # ── Mode detection ───────────────────────────────────────────────────
+    # Admin/operator mode: append ?admin=1 to the URL.
+    # Viewer mode (default): no query param — read-only, no pipeline trigger.
+    is_admin = st.query_params.get("admin", "") in ("1", "true", "yes")
+
+    # ── Sidebar (admin only) ─────────────────────────────────────────────
+    if is_admin:
+        with st.sidebar:
+            st.markdown("### 运营者设置")
+            data_source = st.selectbox(
+                "数据来源",
+                ["🌐 实时 RSS（多源拉取）", "data/rss_articles.json", "data/sample_articles.json"],
+                index=0,
+            )
+            st.markdown("---")
+            st.markdown(
+                '<span style="font-size:0.75rem;color:#4b5563">'
+                "AI 科技日报 · 运营者模式<br>"
+                "Powered by MiniMax + Claude"
+                "</span>",
+                unsafe_allow_html=True,
+            )
+    else:
+        # Hide sidebar toggle entirely for a clean viewer experience
+        st.markdown("""
+<style>
+section[data-testid="stSidebar"],
+[data-testid="stSidebarCollapsedControl"],
+[data-testid="collapsedControl"] { display: none !important; }
+</style>""", unsafe_allow_html=True)
+        data_source = "🌐 实时 RSS（多源拉取）"  # unused in viewer mode
 
     # ── Session state ────────────────────────────────────────────────────
     if "report" not in st.session_state:
@@ -766,20 +781,28 @@ def main():
         st.session_state.markdown = None
         st.session_state.is_live = False
 
-    # ── Try loading cached report on first visit ─────────────────────────
+    # ── Auto-load cached report on first visit (both modes) ──────────────
     if st.session_state.report is None:
         cached_report, cached_md = _load_cached_report()
         if cached_report:
             st.session_state.report = cached_report
             st.session_state.markdown = cached_md
-            st.session_state.is_live = False  # loaded from cache = demo mode
+            st.session_state.is_live = False
 
-    # ── Control bar ──────────────────────────────────────────────────────
-    col_btn, _ = st.columns([2, 8])
-    with col_btn:
-        generate_clicked = st.button("⚡ 生成今日简报", type="primary", use_container_width=True)
+    # ── Admin: generate button ────────────────────────────────────────────
+    generate_clicked = False
+    if is_admin:
+        col_btn, col_info = st.columns([2, 8])
+        with col_btn:
+            generate_clicked = st.button("⚡ 生成今日简报", type="primary", use_container_width=True)
+        with col_info:
+            st.markdown(
+                '<span style="font-size:0.78rem;color:#4b5563;line-height:2.5">'
+                "🔧 运营者模式 — 生成后自动保存，内测用户将立即看到最新内容</span>",
+                unsafe_allow_html=True,
+            )
 
-    # ── Pipeline execution ───────────────────────────────────────────────
+    # ── Pipeline execution (admin only) ──────────────────────────────────
     if generate_clicked:
         status = st.empty()
         progress = st.progress(0)
@@ -805,10 +828,11 @@ def main():
                 pass
 
         try:
-            # Force reload to avoid stale sys.modules cache across Streamlit reruns
-            import importlib, sys
-            if 'main' in sys.modules:
-                importlib.reload(sys.modules['main'])
+            import sys
+            _stale = {'main', 'src.agents.insight_agent', 'src.agents.summarize_agent'}
+            for _mod in list(sys.modules.keys()):
+                if _mod in _stale:
+                    del sys.modules[_mod]
             from main import run_pipeline
             if data_source == "🌐 实时 RSS（多源拉取）":
                 from src.ingestion.rss_ingestor import ingest_all
@@ -828,7 +852,7 @@ def main():
                 )
             progress.progress(100)
             status.markdown(
-                '<span style="color:#34d399;font-size:0.85rem">✓ 简报生成完成</span>',
+                '<span style="color:#34d399;font-size:0.85rem">✓ 简报已生成并保存，内测用户刷新页面即可查看</span>',
                 unsafe_allow_html=True,
             )
             _save_report(report, markdown)
@@ -844,17 +868,31 @@ def main():
     if st.session_state.report:
         render_full_report(st.session_state.report, st.session_state.is_live)
 
-    elif not generate_clicked:
-        # Empty state
+    elif is_admin and not generate_clicked:
+        # Admin empty state — no cached report exists yet
         st.markdown("""
 <div style="text-align:center;padding:6rem 2rem;color:#374151">
   <div style="font-size:3rem;margin-bottom:1rem">⚡</div>
   <div style="font-size:1.1rem;font-weight:600;color:#6b7280;margin-bottom:0.5rem">
-    AI 科技日报
+    尚无日报缓存
   </div>
   <div style="font-size:0.9rem;color:#4b5563">
     点击 <strong style="color:#7baaf7">生成今日简报</strong> 运行完整流程，
-    生成今日 AI 科技情报简报。
+    生成后自动保存供内测用户查看。
+  </div>
+</div>
+""", unsafe_allow_html=True)
+
+    else:
+        # Viewer empty state — no cached report found
+        st.markdown("""
+<div style="text-align:center;padding:6rem 2rem;color:#374151">
+  <div style="font-size:3rem;margin-bottom:1rem">📰</div>
+  <div style="font-size:1.1rem;font-weight:600;color:#6b7280;margin-bottom:0.5rem">
+    今日简报准备中
+  </div>
+  <div style="font-size:0.9rem;color:#4b5563">
+    最新内容即将发布，请稍后刷新页面。
   </div>
 </div>
 """, unsafe_allow_html=True)
